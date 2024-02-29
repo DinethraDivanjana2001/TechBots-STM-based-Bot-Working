@@ -1,0 +1,13 @@
+../Core/Src/main.c:126:5:main	1
+../Core/Src/main.c:337:6:SystemClock_Config	3
+../Core/Src/main.c:384:13:MX_ADC1_Init	3
+../Core/Src/main.c:443:13:MX_TIM1_Init	8
+../Core/Src/main.c:529:13:MX_TIM3_Init	4
+../Core/Src/main.c:574:13:MX_GPIO_Init	1
+../Core/Src/main.c:617:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:623:10:millis	1
+../Core/Src/main.c:627:6:speed	1
+../Core/Src/main.c:632:6:motor	4
+../Core/Src/main.c:652:6:calibrate	11
+../Core/Src/main.c:714:6:updateIR	3
+../Core/Src/main.c:800:6:Error_Handler	1
