@@ -21,6 +21,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+#include <stdio.h>
 
 /* USER CODE END Includes */
 
@@ -42,6 +43,8 @@
 /* Private variables ---------------------------------------------------------*/
 ADC_HandleTypeDef hadc1;
 
+I2C_HandleTypeDef hi2c1;
+
 TIM_HandleTypeDef htim1;
 TIM_HandleTypeDef htim3;
 
@@ -59,6 +62,7 @@ static void MX_GPIO_Init(void);
 static void MX_TIM1_Init(void);
 static void MX_ADC1_Init(void);
 static void MX_TIM3_Init(void);
+static void MX_I2C1_Init(void);
 /* USER CODE BEGIN PFP */
 
 void motor(int motor,int direction);
@@ -96,6 +100,34 @@ void calibrate();
 
 #define IR_ARRAY_LENGTH 9
 
+
+#define MPU6050_ADDR        0xD0    // MPU6050 device address
+
+#define REG_ACCEL_XOUT_H    0x3B    // Accelerometer X-axis data register
+#define REG_GYRO_XOUT_H     0x43    // Gyroscope X-axis data register
+
+#define REG_SMPLRT_DIV     0x19    // Gyroscope X-axis data register
+#define REG_GYRO_CONFIG      0x1B    // Gyroscope X-axis data register
+#define REG_ACCEL_CONFIG     0x1C   // Gyroscope X-axis data register
+#define REG_TEMP_OUT_H      0x41    // Gyroscope X-axis data register
+#define REG_WHO_AM_I      0x75    // Gyroscope X-axis data register
+#define REG_PWR_MGMT_1      0x6B    // Gyroscope X-axis data register
+
+I2C_HandleTypeDef hi2c1;
+
+typedef struct {
+    float Accel_X;
+    float Accel_Y;
+    float Accel_Z;
+} MPU6050_ACCEL_t;
+
+typedef struct {
+    float Gyro_X;
+    float Gyro_Y;
+    float Gyro_Z;
+} MPU6050_GYRO_t;
+
+
 int IR_array[IR_ARRAY_LENGTH] = {0};
 
 int button = 1;
@@ -116,6 +148,11 @@ int Drive_constant = 200;
 double prevError = 0;
 double integral = 0;
 double derivative = 0;
+
+int verify = 0;
+
+MPU6050_ACCEL_t accel_data;
+MPU6050_GYRO_t gyro_data;
 
 /* USER CODE END 0 */
 
@@ -150,7 +187,19 @@ int main(void)
   MX_TIM1_Init();
   MX_ADC1_Init();
   MX_TIM3_Init();
+  MX_I2C1_Init();
   /* USER CODE BEGIN 2 */
+
+//  HAL_StatusTypeDef ret = HAL_I2C_IsDeviceReady(&hi2c1, 1101000 <<1 + 0, 1, 100);
+//  if (ret == HAL_OK)
+//  {
+//	  verify = 3;
+//  }
+//  else
+//  {
+//	  verify = 4;
+//  }
+
   HAL_TIM_PWM_Start(&htim1, MotorR_PWM);
   HAL_TIM_PWM_Start(&htim1, MotorL_PWM);
 
@@ -161,17 +210,32 @@ int main(void)
   sConfigPrivate.Rank = ADC_REGULAR_RANK_1;
   sConfigPrivate.SamplingTime = ADC_SAMPLETIME_1CYCLE_5;
 
+//  uint8_t temp_data = 0b00001000;
+//  ret = HAL_I2C_Mem_Write(&hi2c1, (0b1101000 <<1) + 0, 27, 1, &temp_data, 1, 100);
+//  if (ret == HAL_OK)
+//  {
+//	  verify = 7;
+//  }
+//  else
+//  {
+//	  verify = 8;
+//  }
+
+
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  MPU_Accel_Read(&accel_data);
+	  MPU_Gyro_Read(&gyro_data);
 
-	  speed(255,255);
-
-	  motor(left, Forward);
-	  motor(right, Backward);
+	  verify = accel_data.Accel_X;
+//	  speed(255,255);
+//
+//	  motor(left, Forward);
+//	  motor(right, Backward);
 
 //	  updateIR();
 //
@@ -432,6 +496,54 @@ static void MX_ADC1_Init(void)
   /* USER CODE BEGIN ADC1_Init 2 */
 
   /* USER CODE END ADC1_Init 2 */
+
+}
+
+/**
+  * @brief I2C1 Initialization Function
+  * @param None
+  * @retval None
+  */
+static void MX_I2C1_Init(void)
+{
+
+  /* USER CODE BEGIN I2C1_Init 0 */
+
+  /* USER CODE END I2C1_Init 0 */
+
+  /* USER CODE BEGIN I2C1_Init 1 */
+
+  /* USER CODE END I2C1_Init 1 */
+  hi2c1.Instance = I2C1;
+  hi2c1.Init.Timing = 0x00602173;
+  hi2c1.Init.OwnAddress1 = 0;
+  hi2c1.Init.AddressingMode = I2C_ADDRESSINGMODE_7BIT;
+  hi2c1.Init.DualAddressMode = I2C_DUALADDRESS_DISABLE;
+  hi2c1.Init.OwnAddress2 = 0;
+  hi2c1.Init.OwnAddress2Masks = I2C_OA2_NOMASK;
+  hi2c1.Init.GeneralCallMode = I2C_GENERALCALL_DISABLE;
+  hi2c1.Init.NoStretchMode = I2C_NOSTRETCH_DISABLE;
+  if (HAL_I2C_Init(&hi2c1) != HAL_OK)
+  {
+    Error_Handler();
+  }
+
+  /** Configure Analogue filter
+  */
+  if (HAL_I2CEx_ConfigAnalogFilter(&hi2c1, I2C_ANALOGFILTER_ENABLE) != HAL_OK)
+  {
+    Error_Handler();
+  }
+
+  /** Configure Digital filter
+  */
+  if (HAL_I2CEx_ConfigDigitalFilter(&hi2c1, 0) != HAL_OK)
+  {
+    Error_Handler();
+  }
+  /* USER CODE BEGIN I2C1_Init 2 */
+
+  /* USER CODE END I2C1_Init 2 */
 
 }
 
@@ -788,6 +900,102 @@ void updateIR(){
 	  for (int i = 0; i < 9; ++i) {
 		  digital_IR[i] = IR_array[i] < Ir_thresholds[i];
 	  }
+
+}
+
+void MPU_Accel_Read(MPU6050_ACCEL_t *Mpu_Accel)
+
+{
+
+        uint8_t Read_Data[6];
+
+
+
+        HAL_I2C_Mem_Read (&hi2c1, MPU6050_ADDR, REG_ACCEL_XOUT_H, 1, Read_Data, 6, 1000);
+
+
+
+        int16_t Accel_X_RAW = (int16_t)(Read_Data[0] << 8 | Read_Data [1]);
+
+        int16_t Accel_Y_RAW = (int16_t)(Read_Data[2] << 8 | Read_Data [3]);
+
+        int16_t Accel_Z_RAW = (int16_t)(Read_Data[4] << 8 | Read_Data [5]);
+
+
+
+        Mpu_Accel -> Accel_X = (Accel_X_RAW)/16384.0;
+
+        Mpu_Accel -> Accel_Y = (Accel_Y_RAW)/16384.0;
+
+        Mpu_Accel -> Accel_Z = (Accel_Z_RAW)/16384.0;
+
+}
+
+void MPU_Gyro_Read(MPU6050_GYRO_t *Mpu_Gyro)
+
+{
+
+        uint8_t Read_Data[6];
+
+
+
+        HAL_I2C_Mem_Read (&hi2c1, MPU6050_ADDR, REG_GYRO_XOUT_H, 1, Read_Data, 6, 1000);
+
+
+
+        int16_t Gyro_X_RAW = (int16_t)(Read_Data[0] << 8 | Read_Data [1]);
+
+        int16_t Gyro_Y_RAW = (int16_t)(Read_Data[2] << 8 | Read_Data [3]);
+
+        int16_t Gyro_Z_RAW = (int16_t)(Read_Data[4] << 8 | Read_Data [5]);
+
+
+
+        Mpu_Gyro -> Gyro_X = (Gyro_X_RAW)/131.0;
+
+        Mpu_Gyro -> Gyro_Y = (Gyro_Y_RAW)/131.0;
+
+        Mpu_Gyro -> Gyro_Z = (Gyro_Z_RAW)/131.0;
+
+}
+
+void MPU_Init(void)
+
+{
+
+uint8_t Check;
+
+       uint8_t Data;
+
+       HAL_I2C_Mem_Read (&hi2c1, MPU6050_ADDR, REG_WHO_AM_I, 1, &Check, 1, 1000);
+
+      if (Check == 0x68)
+
+     {
+
+           Data = 0;
+
+           HAL_I2C_Mem_Write(&hi2c1, MPU6050_ADDR, REG_PWR_MGMT_1, 1,&Data, 1, 1000);
+
+
+
+           Data = 0x07;
+
+           HAL_I2C_Mem_Write(&hi2c1, MPU6050_ADDR, REG_SMPLRT_DIV, 1, &Data, 1, 1000);
+
+
+
+           Data = 0x00;
+
+           HAL_I2C_Mem_Write(&hi2c1, MPU6050_ADDR, REG_ACCEL_CONFIG, 1, &Data, 1, 1000);
+
+
+
+           Data = 0x00;
+
+           HAL_I2C_Mem_Write(&hi2c1, MPU6050_ADDR, REG_GYRO_CONFIG, 1, &Data, 1, 1000);
+
+     }
 
 }
 

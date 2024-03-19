@@ -1,0 +1,2 @@
+../Core/Src/MotorControl.c:14:6:speed	16	static
+../Core/Src/MotorControl.c:19:6:motor	16	static

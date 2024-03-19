@@ -60,8 +60,8 @@ all: main-build
 main-build: LED_Blink_test.elf secondary-outputs
 
 # Tool invocations
-LED_Blink_test.elf LED_Blink_test.map: $(OBJS) $(USER_OBJS) C:\Users\yasir\Documents\GitHub\STM32_smallbluepill_test\LED_Blink_test\STM32G0B1RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "LED_Blink_test.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m0plus -T"C:\Users\yasir\Documents\GitHub\STM32_smallbluepill_test\LED_Blink_test\STM32G0B1RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="LED_Blink_test.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+LED_Blink_test.elf LED_Blink_test.map: $(OBJS) $(USER_OBJS) C:\Users\yasir\Documents\GitHub\TechBots-Bot-Working\Codes\PID-Basic_tested_varification\ failed(motor\ issue)\STM32G0B1RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "LED_Blink_test.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m0plus -T"C:\Users\yasir\Documents\GitHub\TechBots-Bot-Working\Codes\PID-Basic_tested_varification failed(motor issue)\STM32G0B1RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="LED_Blink_test.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
