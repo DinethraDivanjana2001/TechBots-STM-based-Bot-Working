@@ -57,9 +57,9 @@ int Ir_thresholds[IR_ARRAY_LENGTH] = {2000};
 
 
 // PID parameters for Line Following
-double Kp = 10;
+double Kp = 0.02;
 double Ki = 11;
-double Kd = 7;
+double Kd = 0.1;
 
 int Drive_constant = 500;
 
@@ -68,8 +68,6 @@ double prevError = 0;
 double integral = 0;
 double derivative = 0;
 
-ADC_ChannelConfTypeDef adc1ConfigPrivate = {0};
-ADC_ChannelConfTypeDef adc2ConfigPrivate = {0};
 uint8_t FR_IR_LED_ARR[25][5] = {
 	{0,0,0,0,0},//Y0 IR1
 	{0,0,0,0,1},//Y1 IR2
@@ -95,7 +93,7 @@ uint8_t FR_IR_LED_ARR[25][5] = {
 	{1,0,1,0,1},//Y5 IR22
 	{1,0,1,1,0},//Y6 IR23
 	{1,0,1,1,1},//Y7 IR24
-	{1,1,0,0,0}};//Y8 IR25
+	{1,1,0,0,0}};//Y8 IR25
 
 
 
@@ -130,15 +128,16 @@ TIM_HandleTypeDef htim9;
 UART_HandleTypeDef huart4;
 
 /* USER CODE BEGIN PV */
-//TPS55288 BuckBoost;
-HAL_StatusTypeDef result;
-uint8_t TX_Buffer [] = "A" ; // DATA to send
 
 // Variables to store color data
 uint16_t clear, red, green, blue;
 
+//TPS55288 BuckBoost;
 volatile uint32_t millis_counter = 0;
-
+ADC_ChannelConfTypeDef adc1ConfigPrivate = {0};
+ADC_ChannelConfTypeDef adc2ConfigPrivate = {0};
+HAL_StatusTypeDef result;
+uint8_t TX_Buffer [] = "A" ; // DATA to send
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -1061,7 +1060,6 @@ void updateIR(){
 	   HAL_GPIO_WritePin(FR_ARRAY_EVEN_GPIO_Port, FR_ARRAY_EVEN_Pin, GPIO_PIN_SET);
 	 	HAL_GPIO_WritePin(FR_ARRAY_ODD_GPIO_Port, FR_ARRAY_ODD_Pin, GPIO_PIN_SET);
 	  for (int i = 0; i < 25; i=i+2) {
-//		  array_no = i;
 			FR_Array_Mux_In_Select(i+1);
 		  if(i <= 15){
 	  		  	adc1ConfigPrivate.Channel = ADC_CHANNEL_10;
@@ -1082,9 +1080,9 @@ void updateIR(){
 //		  			delay_us(2);
 		  }
 		  digital_IR[i] = IR_array[i] < Ir_thresholds[i];
+		  HAL_Delay(1);
 	  }
 	  for (int i = 1; i < 25; i=i+2) {
-//		  array_no = i;
 			FR_Array_Mux_In_Select(i+1);
 		  if(i <= 15){
 	  		  	adc1ConfigPrivate.Channel = ADC_CHANNEL_10;
@@ -1105,8 +1103,10 @@ void updateIR(){
 
 		  }
 		  digital_IR[i] = IR_array[i] < Ir_thresholds[i];
+		  HAL_Delay(1);
 	  }
 }
+
 
 void FR_Array_Mux_In_Select(int IR_LED_Num){
 	if(IR_LED_Num <= 16){
