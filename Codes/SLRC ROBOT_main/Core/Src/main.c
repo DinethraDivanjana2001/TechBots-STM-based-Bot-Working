@@ -53,7 +53,7 @@ int IR_array[IR_ARRAY_LENGTH] = {0};
 int digital_IR[IR_ARRAY_LENGTH] = {0};
 
 //IR Array calibration data
-int Ir_thresholds[IR_ARRAY_LENGTH] = {2000};
+int Ir_thresholds[IR_ARRAY_LENGTH] = {2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,2000,};
 
 
 // PID parameters for Line Following
@@ -165,6 +165,25 @@ int Get_abs(int);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
+//uint32_t counter = 0;
+volatile uint32_t counter = 0;
+int16_t count = 0;
+
+int16_t position = 0;
+
+int16_t countt = 0;
+
+//void HAL_TIM_PeriodElapsedCallBack(TIM_HandleTypeDef *htim)
+//{
+//	counter = __HAL_TIM_GET_COUNTER(htim);
+//
+////	count = (int16_t)counter;
+//	count++;
+//
+//	position = count/4;
+//
+//}
+
 
 /* USER CODE END 0 */
 
@@ -174,6 +193,7 @@ int Get_abs(int);
   */
 int main(void)
 {
+
   /* USER CODE BEGIN 1 */
 
   /* USER CODE END 1 */
@@ -211,7 +231,7 @@ int main(void)
   /* USER CODE BEGIN 2 */
 
 //  #define ADDRESS_TO 0x40
-
+  HAL_TIM_Encoder_Start(&htim3, TIM_CHANNEL_ALL);
   HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_1);
   HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_2);
 
@@ -223,10 +243,12 @@ int main(void)
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
 
-  calibrate();
+//  calibrate();
   printf("Caliberation Done!");
   while (1)
   {
+	  counter = htim3.Instance->CNT;
+
 
 	  //Start motors at full speed
 	  motor(left, Forward);motor(right, Forward);
@@ -258,6 +280,7 @@ int main(void)
 
 
 	  speed(Get_abs(Left_drive), Get_abs(Right_drive));
+//	  speed(Get_abs(500), Get_abs(500));
 
     /* USER CODE END WHILE */
 

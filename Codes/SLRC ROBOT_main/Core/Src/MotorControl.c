@@ -18,7 +18,7 @@ void speed(int Left, int Right){
 
 void motor(int motor,int direction){
 	if (motor == 0){
-		if (direction == 1){
+		if (direction == 0){
 			HAL_GPIO_WritePin(RR_INB_GPIO_Port, RR_INB_Pin, 0);
 			HAL_GPIO_WritePin(RR_INA_GPIO_Port, RR_INA_Pin, 1);
 		}else{
