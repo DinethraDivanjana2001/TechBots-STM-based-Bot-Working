@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PROXIMITY_IN Pin=J4-2
+Added Component: Designator=R?(FP-CRCW0402-e3-MFG)
+Added Component: Designator=R?(RESC1005X40X25LL05T10)
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Net: Net with name "FB" already exists
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Net: Name=NetJ4_2
+Add Net: Net with name "VCC" already exists

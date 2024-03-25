@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PROXIMITY_IN Pin=U1-69
+Added Pin To Net: NetName=PROXIMITY_IN Pin=U1-26
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "VCC" already exists

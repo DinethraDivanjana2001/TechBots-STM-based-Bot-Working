@@ -1,0 +1,72 @@
+Change component parameters: Designator = "J5" ("J5"); Footprint = "BM06BGHSTBTLFSN"; UniqueID = "\XUIRKGKK" ("\XUIRKGKK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/2004111131_JST-Sales-America-BM06B-GHS-TBT-LF-SN_C495534.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.05mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM06B-GHS-TBT(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C189892"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DITH/SYNC Pin=IC3-12
+Added Pin To Net: NetName=DITH/SYNC Pin=IC3-15
+Added Pin To Net: NetName=+3V3 Pin=IC3-24
+Added Pin To Net: NetName=+3V3 Pin=J21-10
+Added Pin To Net: NetName=DITH/SYNC Pin=J21-11
+Added Pin To Net: NetName=R_IR_1 Pin=IC3-9
+Added Pin To Net: NetName=R_IR_1 Pin=J21-7
+Added Net: Name=R_IR_1
+Added Pin To Net: NetName=R_IR_2 Pin=IC3-8
+Added Pin To Net: NetName=R_IR_2 Pin=J21-6
+Added Net: Name=R_IR_2
+Added Pin To Net: NetName=R_IR_3 Pin=IC3-7
+Added Pin To Net: NetName=R_IR_3 Pin=J21-5
+Added Net: Name=R_IR_3
+Added Pin To Net: NetName=R_IR_4 Pin=IC3-6
+Added Pin To Net: NetName=R_IR_4 Pin=J21-4
+Added Net: Name=R_IR_4
+Added Pin To Net: NetName=R_IR_5 Pin=IC3-5
+Added Pin To Net: NetName=R_IR_5 Pin=J21-3
+Added Net: Name=R_IR_5
+Added Pin To Net: NetName=R_IR_6 Pin=IC3-4
+Added Pin To Net: NetName=R_IR_6 Pin=J21-2
+Added Net: Name=R_IR_6
+Added Pin To Net: NetName=R_IR_7 Pin=IC3-3
+Added Pin To Net: NetName=R_IR_7 Pin=J21-1
+Added Net: Name=R_IR_7
+Added Pin To Net: NetName=R_IR_8 Pin=IC3-2
+Added Pin To Net: NetName=R_IR_8 Pin=J23-1
+Added Net: Name=R_IR_8
+Added Pin To Net: NetName=R_IR_9 Pin=IC3-23
+Added Pin To Net: NetName=R_IR_9 Pin=J23-2
+Added Net: Name=R_IR_9
+Added Pin To Net: NetName=R_IR_10 Pin=IC3-22
+Added Pin To Net: NetName=R_IR_10 Pin=J23-3
+Added Net: Name=R_IR_10
+Added Pin To Net: NetName=R_IR_11 Pin=IC3-21
+Added Pin To Net: NetName=R_IR_11 Pin=J23-4
+Added Net: Name=R_IR_11
+Added Pin To Net: NetName=R_IR_12 Pin=IC3-20
+Added Pin To Net: NetName=R_IR_12 Pin=J23-5
+Added Net: Name=R_IR_12
+Added Pin To Net: NetName=R_IR_13 Pin=IC3-19
+Added Pin To Net: NetName=R_IR_13 Pin=J23-6
+Added Net: Name=R_IR_13
+Added Pin To Net: NetName=R_IR_14 Pin=IC3-18
+Added Pin To Net: NetName=R_IR_14 Pin=J23-7
+Added Net: Name=R_IR_14
+Added Pin To Net: NetName=R_IR_15 Pin=IC3-17
+Added Pin To Net: NetName=R_IR_15 Pin=J23-8
+Added Net: Name=R_IR_15
+Added Pin To Net: NetName=RR_ARR_OUT_1 Pin=IC3-1
+Added Net: Name=RR_ARR_OUT_1
+Added Pin To Net: NetName=RR_ARRAY_EVEN Pin=J21-9
+Added Net: Name=RR_ARRAY_EVEN
+Added Pin To Net: NetName=RR_ARRAY_ODD Pin=J21-8
+Added Net: Name=RR_ARRAY_ODD
+Added Room: Name=IMU Unit
+Added Room: Name=IrArray
+Added Room: Name=MicroController
+Added Room: Name=MotorControl
+Added Room: Name=PowerManagement

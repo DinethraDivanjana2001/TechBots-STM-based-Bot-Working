@@ -1,0 +1,95 @@
+Added Component: Designator=C24(CAPC1608X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C1608X6S1C475K080AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c1608x6s1c475k080ac/tdk?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "capacitance"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1608X6S1C475K080AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "810-C1608X6S1C475K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/C1608X6S1C475K080AC?qs=dfay7wIA1uELNO4%252B8xvBDw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAPC5750X280N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CGA9P2X7R1E226M250KA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cga9p2x7r1e226m250ka/tdk?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CGA9P2X7R1E226M250KA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "810-CGA9P2X7R1E226M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/CGA9P2X7R1E226M250KA?qs=NRhsANhppD99aYOe83Ouyg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(TPS55288RPMR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TPS55288RPMR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tps55288rpmr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/tps55288.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS55288RPMR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TPS55288RPMR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS55288RPMR?qs=bAKSY%2FctAC57bSsN8PUBnQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=L1(XAL6030182MEB)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.coilcraft.com/pdfs/xal60xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "COILCRAFT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XAL6030-182MEB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "994-XAL6030-182MEB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Coilcraft/XAL6030-182MEB?qs=VJjuEbE9QBNl9%2F4O4ZhQvg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=L2(XAL40XX)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.coilcraft.com/pdfs/xal4000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "COILCRAFT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XAL4020-102MEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "994-XAL4020-102MEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Coilcraft/XAL4020-102MEC?qs=zCSbvcPd3pbLq0M7ZKfPRA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DITH/SYNC Pin=C24-1
+Added Pin To Net: NetName=VCC Pin=C24-2
+Added Pin To Net: NetName=DITH/SYNC Pin=C25-1
+Added Pin To Net: NetName=VOUT Pin=C25-2
+Added Pin To Net: NetName=DR1L Pin=IC?-1
+Added Pin To Net: NetName=NetC1_2 Pin=IC?-3
+Added Pin To Net: NetName=DITH/SYNC Pin=IC?-7
+Added Pin To Net: NetName=DITH/SYNC Pin=IC?-9
+Added Pin To Net: NetName=DITH/SYNC Pin=IC?-10
+Added Pin To Net: NetName=VOUT Pin=IC?-11
+Added Pin To Net: NetName=VOUT Pin=IC?-12
+Added Pin To Net: NetName=VOUT Pin=IC?-13
+Added Pin To Net: NetName=FB Pin=IC?-14
+Added Pin To Net: NetName=DITH/SYNC Pin=IC?-15
+Added Pin To Net: NetName=NetC6_2 Pin=IC?-18
+Added Pin To Net: NetName=VCC Pin=IC?-19
+Added Pin To Net: NetName=NetC5_1 Pin=IC?-20
+Added Pin To Net: NetName=SW2 Pin=IC?-21
+Added Pin To Net: NetName=NetC4_2 Pin=IC?-22
+Added Pin To Net: NetName=SW1 Pin=IC?-23
+Added Pin To Net: NetName=DITH/SYNC Pin=IC?-24
+Added Pin To Net: NetName=SW2 Pin=IC?-25
+Added Pin To Net: NetName=VOUT Pin=IC?-26
+Added Pin To Net: NetName=DR1L Pin=IC?-27
+Added Pin To Net: NetName=DITH/SYNC Pin=IC?-28
+Added Pin To Net: NetName=VOUT Pin=IC?-29
+Added Pin To Net: NetName=VCC Pin=IC?-30
+Added Pin To Net: NetName=SW2 Pin=L1-1
+Added Pin To Net: NetName=SW1 Pin=L1-2
+Added Pin To Net: NetName=SW Pin=L2-1
+Added Pin To Net: NetName=BIAS Pin=L2-2
+Added Pin To Net: NetName=NetIC?_2 Pin=IC?-2
+Added Pin To Net: NetName=NetIC?_2 Pin=R3-1
+Added Net: Name=NetIC?_2
+Added Pin To Net: NetName=NetIC?_4 Pin=IC?-4
+Added Pin To Net: NetName=NetIC?_4 Pin=R1-1
+Added Pin To Net: NetName=NetIC?_4 Pin=R2-2
+Added Net: Name=NetIC?_4
+Added Pin To Net: NetName=NetIC?_8 Pin=IC?-8
+Added Pin To Net: NetName=NetIC?_8 Pin=R5-2
+Added Net: Name=NetIC?_8
+Added Pin To Net: NetName=NetIC?_17 Pin=IC?-17
+Added Pin To Net: NetName=NetIC?_17 Pin=R7-2
+Added Net: Name=NetIC?_17
+Added Member To Class: ClassName=PowerManagement Member=Component C24 C1608X6S1C475K080AC
+Added Member To Class: ClassName=PowerManagement Member=Component C25 CGA9P2X7R1E226M250KA
+Added Member To Class: ClassName=PowerManagement Member=Component IC? TPS55288RPMR
+Added Member To Class: ClassName=PowerManagement Member=Component L1 XAL6030-182MEB
+Added Member To Class: ClassName=PowerManagement Member=Component L2 XAL4020-102MEC

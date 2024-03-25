@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=MCU_SCL_1 Pin=U1-47
+Added Pin To Net: NetName=MCU_SDA_1 Pin=U1-48
+Added Pin To Net: NetName=MCU_SCL_1 Pin=U3-23
+Added Pin To Net: NetName=MCU_SDA_1 Pin=U3-24
+Added Pin To Net: NetName=MCU_SCL_1 Pin=U4-14
+Added Pin To Net: NetName=MCU_SDA_1 Pin=U4-15
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "VCC" already exists

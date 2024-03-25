@@ -1,0 +1,348 @@
+Removed Pin From Net: NetName=+3V3 Pin=J2-1
+Removed Pin From Net: NetName=DITH/SYNC Pin=J2-2
+Removed Pin From Net: NetName=LPIN_1 Pin=J2-5
+Removed Pin From Net: NetName=INT_1 Pin=J2-6
+Removed Pin From Net: NetName=+3V3 Pin=J3-1
+Removed Pin From Net: NetName=DITH/SYNC Pin=J3-2
+Removed Pin From Net: NetName=LPIN_4 Pin=J3-5
+Removed Pin From Net: NetName=INT_4 Pin=J3-6
+Removed Pin From Net: NetName=+3V3 Pin=J8-1
+Removed Pin From Net: NetName=DITH/SYNC Pin=J8-2
+Removed Pin From Net: NetName=LPIN_2 Pin=J8-5
+Removed Pin From Net: NetName=INT_2 Pin=J8-6
+Removed Pin From Net: NetName=+3V3 Pin=J9-1
+Removed Pin From Net: NetName=DITH/SYNC Pin=J9-2
+Removed Pin From Net: NetName=LPIN_5 Pin=J9-5
+Removed Pin From Net: NetName=INT_5 Pin=J9-6
+Removed Pin From Net: NetName=+3V3 Pin=J14-1
+Removed Pin From Net: NetName=DITH/SYNC Pin=J14-2
+Removed Pin From Net: NetName=LPIN_3 Pin=J14-5
+Removed Pin From Net: NetName=INT_3 Pin=J14-6
+Removed Pin From Net: NetName=+3V3 Pin=J15-1
+Removed Pin From Net: NetName=DITH/SYNC Pin=J15-2
+Removed Pin From Net: NetName=LPIN_6 Pin=J15-5
+Removed Pin From Net: NetName=INT_6 Pin=J15-6
+Removed Pin From Net: NetName=DITH/SYNC Pin=R?-1
+Removed Pin From Net: NetName=BAT+ Pin=R?-2
+Removed Member From Class: ClassName=MicroController Member=J2
+Removed Member From Class: ClassName=MicroController Member=J3
+Removed Member From Class: ClassName=MicroController Member=J5
+Removed Member From Class: ClassName=MicroController Member=J8
+Removed Member From Class: ClassName=MicroController Member=J9
+Removed Member From Class: ClassName=MicroController Member=J14
+Removed Member From Class: ClassName=MicroController Member=J15
+Removed Member From Class: ClassName=IrArray Member=J24
+Change Footprint: Cannot match pads with new footprint in component :R? Footprint:RESC1005X40X25LL05T10
+Change Component Comment : Designator=R? Old Comment=RK73H1ETTP5101F New Comment=RC0402FR-0710KL
+Change Managed Component Library Link : Designator=R? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CD37B156-5ABB-4840-86F5-961BAE3ABB87 New ItemGUID=F30FB6D9-41F3-4F5C-A3EC-D13D57D4E64E Old RevisionGUID=835A96E2-7B1F-404D-A063-C7EF9C689BE1 New RevisionGUID=FB950915-BC06-4C3F-BB8B-3C71FDFD77AE
+Change component parameters: Designator = "R2" ("R2"); Footprint = "FP-CRCW0402-e3-IPC_C"; UniqueID = "\VBDWDUMS" ("\VBDWDUMS")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "63mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "2.3E-05oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R?" ("R?"); Footprint = "RESC1005X40X25ML10T10"; UniqueID = "\EGHOLBKW" ("\EGHOLBKW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPC5750X280N
+Added Component: Designator=C?(FP-GRM155-0_05-MFG)
+Added Component: Designator=C?(FP-GRM155-0_05-MFG)
+Added Component: Designator=C?(FP-GRM155-0_05-MFG)
+Add Component: Footprint Not Found CAPC1005X55N
+Add Component: Footprint Not Found CAPC1608X80N
+Add Component: Footprint Not Found TPS55288RPMR
+Added Component: Designator=IC?(SOP65P640X110-24N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "74HC4067PW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/74hc4067pw118/nexperia?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/74HC_HCT4067.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74HC4067PW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-74HC4067PW-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/74HC4067PW118?qs=P62ublwmbi9BArRi%252BuDUjA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOP65P640X110-24N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "74HC4067PW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/74hc4067pw118/nexperia?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/74HC_HCT4067.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74HC4067PW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-74HC4067PW-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/74HC4067PW118?qs=P62ublwmbi9BArRi%252BuDUjA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(BM06BGHSTBTLFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/2004111131_JST-Sales-America-BM06B-GHS-TBT-LF-SN_C495534.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM06B-GHS-TBT(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(BM06BGHSTBTLFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/2004111131_JST-Sales-America-BM06B-GHS-TBT-LF-SN_C495534.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM06B-GHS-TBT(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(BM06BGHSTBTLFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/2004111131_JST-Sales-America-BM06B-GHS-TBT-LF-SN_C495534.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM06B-GHS-TBT(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(BM06BGHSTBTLFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/2004111131_JST-Sales-America-BM06B-GHS-TBT-LF-SN_C495534.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM06B-GHS-TBT(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(BM11BGHSTBTLFSNN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.jst-mfg.com/product/pdf/eng/eGH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM11B-GHS-TBT(LF)(SN)(N)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Added Component: Designator=J?(BM11BGHSTBTLFSNN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.jst-mfg.com/product/pdf/eng/eGH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM11B-GHS-TBT(LF)(SN)(N)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Added Component: Designator=J?(BM06BGHSTBTLFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/2004111131_JST-Sales-America-BM06B-GHS-TBT-LF-SN_C495534.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM06B-GHS-TBT(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(BM06BGHSTBTLFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/2004111131_JST-Sales-America-BM06B-GHS-TBT-LF-SN_C495534.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM06B-GHS-TBT(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XAL6030182MEB
+Add Component: Footprint Not Found RESC2012X60N
+Add Component: Footprint Not Found RESC1005X40N
+Added Component: Designator=U?(PW0016A_N)
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin Ccomp-1
+Add Pin To Net: Unknown Pin: Pin Ccomp-2
+Add Pin To Net: Unknown Pin: Pin Cvcc-1
+Add Pin To Net: Unknown Pin: Pin Cvcc-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin IC1-9
+Add Pin To Net: Unknown Pin: Pin IC1-10
+Add Pin To Net: Unknown Pin: Pin IC1-11
+Add Pin To Net: Unknown Pin: Pin IC1-12
+Add Pin To Net: Unknown Pin: Pin IC1-13
+Add Pin To Net: Unknown Pin: Pin IC1-14
+Add Pin To Net: Unknown Pin: Pin IC1-15
+Add Pin To Net: Unknown Pin: Pin IC1-17
+Add Pin To Net: Unknown Pin: Pin IC1-18
+Add Pin To Net: Unknown Pin: Pin IC1-19
+Add Pin To Net: Unknown Pin: Pin IC1-20
+Add Pin To Net: Unknown Pin: Pin IC1-21
+Add Pin To Net: Unknown Pin: Pin IC1-22
+Add Pin To Net: Unknown Pin: Pin IC1-23
+Add Pin To Net: Unknown Pin: Pin IC1-24
+Add Pin To Net: Unknown Pin: Pin IC1-25
+Add Pin To Net: Unknown Pin: Pin IC1-26
+Add Pin To Net: Unknown Pin: Pin IC1-27
+Add Pin To Net: Unknown Pin: Pin IC1-28
+Add Pin To Net: Unknown Pin: Pin IC1-29
+Add Pin To Net: Unknown Pin: Pin IC1-30
+Added Pin To Net: NetName=+5 Pin=J6-1
+Added Pin To Net: NetName=DITH/SYNC Pin=J6-3
+Added Pin To Net: NetName=+5 Pin=J10-1
+Added Pin To Net: NetName=DITH/SYNC Pin=J10-3
+Added Pin To Net: NetName=+5 Pin=J12-1
+Added Pin To Net: NetName=DITH/SYNC Pin=J12-3
+Added Pin To Net: NetName=+5 Pin=J13-1
+Added Pin To Net: NetName=DITH/SYNC Pin=J13-3
+Added Pin To Net: NetName=+5 Pin=J?-1
+Added Pin To Net: NetName=INT_1 Pin=J?-1
+Added Pin To Net: NetName=INT_2 Pin=J?-1
+Added Pin To Net: NetName=INT_3 Pin=J?-1
+Added Pin To Net: NetName=INT_4 Pin=J?-1
+Added Pin To Net: NetName=INT_5 Pin=J?-1
+Added Pin To Net: NetName=INT_6 Pin=J?-1
+Added Pin To Net: NetName=LPIN_1 Pin=J?-2
+Added Pin To Net: NetName=LPIN_2 Pin=J?-2
+Added Pin To Net: NetName=LPIN_3 Pin=J?-2
+Added Pin To Net: NetName=LPIN_4 Pin=J?-2
+Added Pin To Net: NetName=LPIN_5 Pin=J?-2
+Added Pin To Net: NetName=LPIN_6 Pin=J?-2
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-3
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-5
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-5
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-5
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-5
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-5
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-5
+Added Pin To Net: NetName=+3V3 Pin=J?-6
+Added Pin To Net: NetName=+3V3 Pin=J?-6
+Added Pin To Net: NetName=+3V3 Pin=J?-6
+Added Pin To Net: NetName=+3V3 Pin=J?-6
+Added Pin To Net: NetName=+3V3 Pin=J?-6
+Added Pin To Net: NetName=+3V3 Pin=J?-6
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin Rcomp-1
+Add Pin To Net: Unknown Pin: Pin Rcomp-2
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-2
+Add Pin To Net: Unknown Pin: Pin U?-8
+Add Pin To Net: Unknown Pin: Pin U?-13
+Add Pin To Net: Unknown Pin: Pin U?-16
+Added Pin To Net: NetName=IMU_INT Pin=U3-12
+Added Net: Name=IMU_INT
+Added Pin To Net: NetName=LED_1 Pin=R9-1
+Added Pin To Net: NetName=LED_1 Pin=U1-88
+Added Net: Name=LED_1
+Added Pin To Net: NetName=LED_2 Pin=R10-1
+Added Pin To Net: NetName=LED_2 Pin=U1-87
+Added Net: Name=LED_2
+Added Pin To Net: NetName=LED_3 Pin=R11-1
+Added Pin To Net: NetName=LED_3 Pin=U1-86
+Added Net: Name=LED_3
+Added Pin To Net: NetName=LED_4 Pin=R12-1
+Added Pin To Net: NetName=LED_4 Pin=U1-85
+Added Net: Name=LED_4
+Added Pin To Net: NetName=LED_5 Pin=R13-1
+Added Pin To Net: NetName=LED_5 Pin=U1-84
+Added Net: Name=LED_5
+Added Pin To Net: NetName=LED_6 Pin=R14-1
+Added Pin To Net: NetName=LED_6 Pin=U1-83
+Added Net: Name=LED_6
+Added Pin To Net: NetName=MCU_SCL_1 Pin=J?-3
+Added Pin To Net: NetName=MCU_SCL_1 Pin=J?-3
+Added Pin To Net: NetName=MCU_SCL_1 Pin=J?-3
+Added Pin To Net: NetName=MCU_SCL_1 Pin=J?-3
+Added Pin To Net: NetName=MCU_SCL_1 Pin=J?-3
+Added Pin To Net: NetName=MCU_SCL_1 Pin=J?-3
+Added Net: Name=MCU_SCL_1
+Added Pin To Net: NetName=MCU_SDA_1 Pin=J?-4
+Added Pin To Net: NetName=MCU_SDA_1 Pin=J?-4
+Added Pin To Net: NetName=MCU_SDA_1 Pin=J?-4
+Added Pin To Net: NetName=MCU_SDA_1 Pin=J?-4
+Added Pin To Net: NetName=MCU_SDA_1 Pin=J?-4
+Added Pin To Net: NetName=MCU_SDA_1 Pin=J?-4
+Added Net: Name=MCU_SDA_1
+Added Pin To Net: NetName=NetJ7_3 Pin=J7-3
+Added Net: Name=NetJ7_3
+Added Pin To Net: NetName=NetJ7_4 Pin=J7-4
+Added Net: Name=NetJ7_4
+Added Pin To Net: NetName=NetJ11_3 Pin=J11-3
+Added Net: Name=NetJ11_3
+Added Pin To Net: NetName=NetJ11_4 Pin=J11-4
+Added Net: Name=NetJ11_4
+Added Pin To Net: NetName=NetJ16_3 Pin=J16-3
+Added Net: Name=NetJ16_3
+Added Pin To Net: NetName=NetJ16_4 Pin=J16-4
+Added Net: Name=NetJ16_4
+Added Pin To Net: NetName=NetJ17_3 Pin=J17-3
+Added Net: Name=NetJ17_3
+Added Pin To Net: NetName=NetJ17_4 Pin=J17-4
+Added Net: Name=NetJ17_4
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=PROXIMITY_IN Pin=J4-2
+Added Pin To Net: NetName=PROXIMITY_IN Pin=U1-37
+Added Net: Name=PROXIMITY_IN
+Added Pin To Net: NetName=SERVO_1 Pin=J6-2
+Added Pin To Net: NetName=SERVO_1 Pin=U1-66
+Added Net: Name=SERVO_1
+Added Pin To Net: NetName=SERVO_2 Pin=J10-2
+Added Pin To Net: NetName=SERVO_2 Pin=U1-65
+Added Net: Name=SERVO_2
+Added Pin To Net: NetName=SERVO_3 Pin=J12-2
+Added Pin To Net: NetName=SERVO_3 Pin=U1-64
+Added Net: Name=SERVO_3
+Added Pin To Net: NetName=SERVO_4 Pin=J13-2
+Added Pin To Net: NetName=SERVO_4 Pin=U1-63
+Added Net: Name=SERVO_4
+Added Pin To Net: NetName=SERVO_5 Pin=J?-2
+Added Pin To Net: NetName=SERVO_5 Pin=U1-5
+Added Net: Name=SERVO_5
+Add Class Member: Failed to add class member : Component C5 CGA9P2X7R1E226M250KA
+Add Class Member: Failed to add class member : Component C? GRM155R61A225KE95D
+Add Class Member: Failed to add class member : Component C? GRM155R61A225KE95D
+Add Class Member: Failed to add class member : Component C? GRM155R61A225KE95D
+Add Class Member: Failed to add class member : Component Ccomp GRM155R71C102KA01D
+Add Class Member: Failed to add class member : Component Cvcc C1608X6S1C475K080AC
+Add Class Member: Failed to add class member : Component IC1 TPS55288RPMR
+Added Member To Class: ClassName=IrArray Member=Component IC? 74HC4067PW,118
+Added Member To Class: ClassName=IrArray Member=Component IC? 74HC4067PW,118
+Added Member To Class: ClassName=IrArray Member=Component J? BM11B-GHS-TBT_LF__SN__N_
+Added Member To Class: ClassName=IrArray Member=Component J? BM11B-GHS-TBT_LF__SN__N_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? 61300311121
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MotorControl Member=Component J? TS-106-G-AA
+Add Class Member: Failed to add class member : Component L1 XAL6030-182MEB
+Add Class Member: Failed to add class member : Component R8 RT0805BRD0710K4L
+Add Class Member: Failed to add class member : Component Rcomp CRCW0402294KFKED
+Add Class Member: Failed to add class member : Component U? PCA9546APWR
+Added Room: Name=IMU Unit
+Added Room: Name=IrArray
+Added Room: Name=MicroController
+Added Room: Name=MotorControl
+Added Room: Name=PowerManagement

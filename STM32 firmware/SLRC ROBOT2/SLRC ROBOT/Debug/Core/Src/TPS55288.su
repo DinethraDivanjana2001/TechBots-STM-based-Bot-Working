@@ -1,0 +1,2 @@
+../Core/Src/TPS55288.c:4:9:TPS55288_Initialize	24	static
+../Core/Src/TPS55288.c:15:19:TPS55288_WriteRegister	40	static

@@ -1,0 +1,287 @@
+Change Component Footprint: Designator=P? Old Footprint=61302421021 New Footprint=61302421021
+Added Component: Designator=C20(FP-GRM155-0_05-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000212oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=C21(FP-GRM155-0_05-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000212oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC1005X40X25ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-071K5L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1.5K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DITH/SYNC Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-1
+Added Pin To Net: NetName=DITH/SYNC Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=C3-1
+Added Pin To Net: NetName=DITH/SYNC Pin=C3-2
+Added Pin To Net: NetName=SW1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=SW2 Pin=C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=DITH/SYNC Pin=C7-1
+Added Pin To Net: NetName=+3.3 Pin=C7-2
+Added Pin To Net: NetName=DITH/SYNC Pin=C8-1
+Added Pin To Net: NetName=+3.3 Pin=C8-2
+Added Pin To Net: NetName=+5 Pin=C9-1
+Added Pin To Net: NetName=DITH/SYNC Pin=C9-2
+Added Pin To Net: NetName=+3.3 Pin=C10-1
+Added Pin To Net: NetName=DITH/SYNC Pin=C10-2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=DITH/SYNC Pin=C16-2
+Added Pin To Net: NetName=+3V3 Pin=C17-1
+Added Pin To Net: NetName=DITH/SYNC Pin=C17-2
+Added Pin To Net: NetName=DITH/SYNC Pin=C18-1
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=DITH/SYNC Pin=C19-1
+Added Pin To Net: NetName=+3V3 Pin=C19-2
+Added Pin To Net: NetName=DITH/SYNC Pin=C23-1
+Added Pin To Net: NetName=NetC6_2 Pin=C23-2
+Added Pin To Net: NetName=DITH/SYNC Pin=C24-1
+Added Pin To Net: NetName=VCC Pin=C24-2
+Added Pin To Net: NetName=DITH/SYNC Pin=C25-1
+Added Pin To Net: NetName=VOUT Pin=C25-2
+Added Pin To Net: NetName=DITH/SYNC Pin=C26-1
+Added Pin To Net: NetName=VOUT Pin=C26-2
+Added Pin To Net: NetName=VOUT Pin=C27-1
+Added Pin To Net: NetName=DITH/SYNC Pin=C27-2
+Added Pin To Net: NetName=DITH/SYNC Pin=C28-1
+Added Pin To Net: NetName=VIN Pin=C28-2
+Added Pin To Net: NetName=VIN Pin=C29-1
+Added Pin To Net: NetName=DITH/SYNC Pin=C29-2
+Added Pin To Net: NetName=DITH/SYNC Pin=C30-1
+Added Pin To Net: NetName=VIN Pin=C30-2
+Added Pin To Net: NetName=VIN Pin=C31-1
+Added Pin To Net: NetName=DITH/SYNC Pin=C31-2
+Added Pin To Net: NetName=DITH/SYNC Pin=C32-1
+Added Pin To Net: NetName=BIAS Pin=C32-2
+Added Pin To Net: NetName=BIAS Pin=C33-1
+Added Pin To Net: NetName=DITH/SYNC Pin=C33-2
+Added Pin To Net: NetName=BIAS Pin=C34-1
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Pin To Net: NetName=SW Pin=C35-1
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=DITH/SYNC Pin=C36-1
+Added Pin To Net: NetName=VCC Pin=C36-2
+Added Pin To Net: NetName=DITH/SYNC Pin=IC4-1
+Added Pin To Net: NetName=VIN Pin=IC4-2
+Added Pin To Net: NetName=NetC35_2 Pin=IC4-3
+Added Pin To Net: NetName=NetC35_2 Pin=IC4-4
+Added Pin To Net: NetName=BIAS Pin=IC4-5
+Added Pin To Net: NetName=VCC Pin=IC4-6
+Added Pin To Net: NetName=FB Pin=IC4-7
+Added Pin To Net: NetName=DITH/SYNC Pin=IC4-8
+Added Pin To Net: NetName=DITH/SYNC Pin=IC4-9
+Added Pin To Net: NetName=NetIC4_10 Pin=IC4-10
+Added Pin To Net: NetName=DITH/SYNC Pin=IC4-11
+Added Pin To Net: NetName=DITH/SYNC Pin=IC4-12
+Added Pin To Net: NetName=VIN Pin=IC4-13
+Added Pin To Net: NetName=VIN Pin=IC4-14
+Added Pin To Net: NetName=DITH/SYNC Pin=IC4-15
+Added Pin To Net: NetName=SW Pin=IC4-16
+Added Pin To Net: NetName=DITH/SYNC Pin=IC4-17
+Added Pin To Net: NetName=VCC Pin=IC4-18
+Added Pin To Net: NetName=NetIC4_10 Pin=IC4-19
+Added Pin To Net: NetName=DITH/SYNC Pin=IC4-20
+Added Pin To Net: NetName=DR1L Pin=IC5-1
+Added Pin To Net: NetName=NetIC5_2 Pin=IC5-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC5-3
+Added Pin To Net: NetName=NetIC5_4 Pin=IC5-4
+Added Pin To Net: NetName=DITH/SYNC Pin=IC5-7
+Added Pin To Net: NetName=NetIC5_8 Pin=IC5-8
+Added Pin To Net: NetName=DITH/SYNC Pin=IC5-9
+Added Pin To Net: NetName=DITH/SYNC Pin=IC5-10
+Added Pin To Net: NetName=VOUT Pin=IC5-11
+Added Pin To Net: NetName=VOUT Pin=IC5-12
+Added Pin To Net: NetName=VOUT Pin=IC5-13
+Added Pin To Net: NetName=FB Pin=IC5-14
+Added Pin To Net: NetName=DITH/SYNC Pin=IC5-15
+Added Pin To Net: NetName=NetIC5_17 Pin=IC5-17
+Added Pin To Net: NetName=NetC6_2 Pin=IC5-18
+Added Pin To Net: NetName=VCC Pin=IC5-19
+Added Pin To Net: NetName=NetC5_1 Pin=IC5-20
+Added Pin To Net: NetName=SW2 Pin=IC5-21
+Added Pin To Net: NetName=NetC4_2 Pin=IC5-22
+Added Pin To Net: NetName=SW1 Pin=IC5-23
+Added Pin To Net: NetName=DITH/SYNC Pin=IC5-24
+Added Pin To Net: NetName=SW2 Pin=IC5-25
+Added Pin To Net: NetName=VOUT Pin=IC5-26
+Added Pin To Net: NetName=DR1L Pin=IC5-27
+Added Pin To Net: NetName=DITH/SYNC Pin=IC5-28
+Added Pin To Net: NetName=VOUT Pin=IC5-29
+Added Pin To Net: NetName=VCC Pin=IC5-30
+Added Pin To Net: NetName=SW2 Pin=L1-1
+Added Pin To Net: NetName=SW1 Pin=L1-2
+Added Pin To Net: NetName=SW Pin=L2-1
+Added Pin To Net: NetName=BIAS Pin=L2-2
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-1
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-5
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-6
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-7
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-8
+Added Pin To Net: NetName=NetQ1_4 Pin=Q2-1
+Added Pin To Net: NetName=NetQ1_4 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=DITH/SYNC Pin=Q2-4
+Added Pin To Net: NetName=NetQ1_4 Pin=Q2-5
+Added Pin To Net: NetName=NetQ1_4 Pin=Q2-6
+Added Pin To Net: NetName=NetQ1_4 Pin=Q2-7
+Added Pin To Net: NetName=DITH/SYNC Pin=Q2-8
+Added Pin To Net: NetName=NetIC5_4 Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2
+Added Pin To Net: NetName=DITH/SYNC Pin=R2-1
+Added Pin To Net: NetName=NetIC5_4 Pin=R2-2
+Added Pin To Net: NetName=NetIC5_2 Pin=R3-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R3-2
+Added Pin To Net: NetName=DR1L Pin=R4-1
+Added Pin To Net: NetName=NetQ2_3 Pin=R4-2
+Added Pin To Net: NetName=DITH/SYNC Pin=R5-1
+Added Pin To Net: NetName=NetIC5_8 Pin=R5-2
+Added Pin To Net: NetName=DITH/SYNC Pin=R6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R6-2
+Added Pin To Net: NetName=DITH/SYNC Pin=R7-1
+Added Pin To Net: NetName=NetIC5_17 Pin=R7-2
+Added Pin To Net: NetName=FB Pin=R8-1
+Added Pin To Net: NetName=VOUT Pin=R8-2
+Added Pin To Net: NetName=BAT_MEASURE Pin=R15-1
+Added Pin To Net: NetName=NetJ19_1 Pin=R15-2
+Added Pin To Net: NetName=DITH/SYNC Pin=R16-1
+Added Pin To Net: NetName=BAT_MEASURE Pin=R16-2
+Added Pin To Net: NetName=DITH/SYNC Pin=R21-1
+Added Pin To Net: NetName=FB Pin=R21-2
+Added Pin To Net: NetName=FB Pin=R22-1
+Added Pin To Net: NetName=BIAS Pin=R22-2
+Added Pin To Net: NetName=FB Pin=R23-1
+Added Pin To Net: NetName=NetC34_2 Pin=R23-2
+Added Pin To Net: NetName=NetIC4_10 Pin=R24-1
+Added Pin To Net: NetName=BIAS Pin=R24-2
+Added Pin To Net: NetName=DITH/SYNC Pin=R25-1
+Added Pin To Net: NetName=FB Pin=R25-2
+Added Pin To Net: NetName=DITH/SYNC Pin=U3-1
+Added Pin To Net: NetName=+3V3 Pin=U3-8
+Added Pin To Net: NetName=DITH/SYNC Pin=U3-9
+Added Pin To Net: NetName=NetC18_2 Pin=U3-10
+Added Pin To Net: NetName=DITH/SYNC Pin=U3-11
+Added Pin To Net: NetName=IMU_INT Pin=U3-12
+Added Pin To Net: NetName=+3V3 Pin=U3-13
+Added Pin To Net: NetName=DITH/SYNC Pin=U3-18
+Added Pin To Net: NetName=NetC16_1 Pin=U3-20
+Added Pin To Net: NetName=SCL Pin=U3-23
+Added Pin To Net: NetName=SDA Pin=U3-24
+Added Pin To Net: NetName=DITH/SYNC Pin=U5-1
+Added Pin To Net: NetName=+3.3 Pin=U5-2
+Added Pin To Net: NetName=+5 Pin=U5-3
+Added Pin To Net: NetName=+3.3 Pin=U5-4
+Added Member To Class: ClassName=PowerManagement Member=Component C1 20SVPF120M
+Added Member To Class: ClassName=PowerManagement Member=Component C2 GRM32ER61E226KE15L
+Added Member To Class: ClassName=PowerManagement Member=Component C3 C1005X5R1V105K050BC
+Added Member To Class: ClassName=PowerManagement Member=Component C4 CBR04C108B1GAC
+Added Member To Class: ClassName=PowerManagement Member=Component C5 CBR04C108B1GAC
+Added Member To Class: ClassName=PowerManagement Member=Component C6 GRM155R71C102KA01D
+Added Member To Class: ClassName=PowerManagement Member=Component C7 CL10A226MP8NUNE
+Added Member To Class: ClassName=PowerManagement Member=Component C8 CL10A226MP8NUNE
+Added Member To Class: ClassName=PowerManagement Member=Component C9 CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerManagement Member=Component C10 CL05A106MP5NUNC
+Added Member To Class: ClassName=IMU Unit Member=Component C16 CC0402KRX7R9BB222
+Added Member To Class: ClassName=IMU Unit Member=Component C17 CC0402KRX7R9BB103
+Added Member To Class: ClassName=IMU Unit Member=Component C18 CL05B104KO5NNNC
+Added Member To Class: ClassName=IMU Unit Member=Component C19 CL05B104KO5NNNC
+Added Member To Class: ClassName=MicroController Member=Component C20 GRM155R61A225KE95D
+Added Member To Class: ClassName=MicroController Member=Component C21 GRM155R61A225KE95D
+Added Member To Class: ClassName=PowerManagement Member=Component C23 GRM1555C1E6R8CA01D
+Added Member To Class: ClassName=PowerManagement Member=Component C24 C1608X6S1C475K080AC
+Added Member To Class: ClassName=PowerManagement Member=Component C25 CGA9P2X7R1E226M250KA
+Added Member To Class: ClassName=PowerManagement Member=Component C26 20SVPF56MX
+Added Member To Class: ClassName=PowerManagement Member=Component C27 C1005X5R1V105K050BC
+Added Member To Class: ClassName=PowerManagement Member=Component C28 C1608X5R1H105K080AB
+Added Member To Class: ClassName=PowerManagement Member=Component C29 GRM32ER71H106KA12L
+Added Member To Class: ClassName=PowerManagement Member=Component C30 C1608X5R1H105K080AB
+Added Member To Class: ClassName=PowerManagement Member=Component C31 GRM32ER71H106KA12L
+Added Member To Class: ClassName=PowerManagement Member=Component C32 GRM155R71A104KA01D
+Added Member To Class: ClassName=PowerManagement Member=Component C33 GRM21BR61A226ME44L
+Added Member To Class: ClassName=PowerManagement Member=Component C34 CGA1A2C0G1E150J030BA
+Added Member To Class: ClassName=PowerManagement Member=Component C35 GRM155R71A104KA01D
+Added Member To Class: ClassName=PowerManagement Member=Component C36 GRM188R60J105KA01D
+Added Member To Class: ClassName=PowerManagement Member=Component IC4 LM62460QRPHRQ1
+Added Member To Class: ClassName=PowerManagement Member=Component IC5 TPS55288RPMR
+Added Member To Class: ClassName=MotorControl Member=Component J? TS-106-G-AA
+Added Member To Class: ClassName=PowerManagement Member=Component L1 XAL6030-182MEB
+Added Member To Class: ClassName=PowerManagement Member=Component L2 XAL4020-102MEC
+Added Member To Class: ClassName=PowerManagement Member=Component Q1 BUK9D23-40EX
+Added Member To Class: ClassName=PowerManagement Member=Component Q2 BUK9D23-40EX
+Added Member To Class: ClassName=PowerManagement Member=Component R1 CRCW0402549KFKED
+Added Member To Class: ClassName=PowerManagement Member=Component R2 CRCW0402100KFKED
+Added Member To Class: ClassName=PowerManagement Member=Component R3 CRCW06031R00FKEA
+Added Member To Class: ClassName=PowerManagement Member=Component R4 CRCW06031R00FKEA
+Added Member To Class: ClassName=PowerManagement Member=Component R5 CRCW040249K9FKED
+Added Member To Class: ClassName=PowerManagement Member=Component R6 CRCW0402294KFKED
+Added Member To Class: ClassName=PowerManagement Member=Component R7 CRCW040228K0FKED
+Added Member To Class: ClassName=PowerManagement Member=Component R8 CRCW0402100KFKED
+Added Member To Class: ClassName=PowerManagement Member=Component R15 RC0402FR-0710KL
+Added Member To Class: ClassName=PowerManagement Member=Component R16 RC0402FR-071K5L
+Added Member To Class: ClassName=PowerManagement Member=Component R21 RT0805BRD0710K4L
+Added Member To Class: ClassName=PowerManagement Member=Component R22 CRCW0402100KFKED
+Added Member To Class: ClassName=PowerManagement Member=Component R23 CRCW04024K99FKED
+Added Member To Class: ClassName=PowerManagement Member=Component R24 CRCW0402100KFKED
+Added Member To Class: ClassName=PowerManagement Member=Component R25 RC0603FR-0724K9L
+Added Member To Class: ClassName=IMU Unit Member=Component U3 MPU-6050
+Added Member To Class: ClassName=PowerManagement Member=Component U5 TLV1117LV33DCYR
+Added Room: Name=FrontIrArray
+Added Room: Name=IMU Unit
+Added Room: Name=IrArray
+Added Room: Name=MicroController
+Added Room: Name=MotorControl
+Added Room: Name=PowerManagement

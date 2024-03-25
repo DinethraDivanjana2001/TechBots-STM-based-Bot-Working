@@ -1,0 +1,98 @@
+Removed Member From Class: ClassName=IrArray Member=J?
+Added Component: Designator=FR ARRAY 1(BM11BGHSTBTLFSNN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.jst-mfg.com/product/pdf/eng/eGH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM11B-GHS-TBT(LF)(SN)(N)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Added Component: Designator=FR ARRAY 2(BM11BGHSTBTLFSNN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.jst-mfg.com/product/pdf/eng/eGH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM11B-GHS-TBT(LF)(SN)(N)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Added Component: Designator=FR ARRAY 3(BM11BGHSTBTLFSNN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.jst-mfg.com/product/pdf/eng/eGH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM11B-GHS-TBT(LF)(SN)(N)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Added Component: Designator=P?(61303421021)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.23mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "32855571"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DITH/SYNC Pin=FR ARRAY 1-1
+Added Pin To Net: NetName=DITH/SYNC Pin=FR ARRAY 1-2
+Added Pin To Net: NetName=+3V3 Pin=FR ARRAY 1-3
+Added Pin To Net: NetName=+3V3 Pin=FR ARRAY 1-4
+Added Pin To Net: NetName=FR_ARRAY_EVEN Pin=FR ARRAY 1-5
+Added Pin To Net: NetName=FR_ARRAY_ODD Pin=FR ARRAY 1-6
+Added Pin To Net: NetName=IR_1 Pin=FR ARRAY 1-7
+Added Pin To Net: NetName=IR_2 Pin=FR ARRAY 1-8
+Added Pin To Net: NetName=IR_3 Pin=FR ARRAY 1-9
+Added Pin To Net: NetName=IR_4 Pin=FR ARRAY 1-10
+Added Pin To Net: NetName=IR_5 Pin=FR ARRAY 1-11
+Added Pin To Net: NetName=IR_6 Pin=FR ARRAY 2-1
+Added Pin To Net: NetName=IR_7 Pin=FR ARRAY 2-2
+Added Pin To Net: NetName=IR_8 Pin=FR ARRAY 2-3
+Added Pin To Net: NetName=IR_9 Pin=FR ARRAY 2-4
+Added Pin To Net: NetName=IR_10 Pin=FR ARRAY 2-5
+Added Pin To Net: NetName=IR_11 Pin=FR ARRAY 2-6
+Added Pin To Net: NetName=IR_12 Pin=FR ARRAY 2-7
+Added Pin To Net: NetName=IR_13 Pin=FR ARRAY 2-8
+Added Pin To Net: NetName=IR_14 Pin=FR ARRAY 2-9
+Added Pin To Net: NetName=IR_15 Pin=FR ARRAY 2-10
+Added Pin To Net: NetName=IR_16 Pin=FR ARRAY 2-11
+Added Pin To Net: NetName=IR_17 Pin=FR ARRAY 3-1
+Added Pin To Net: NetName=IR_18 Pin=FR ARRAY 3-2
+Added Pin To Net: NetName=IR_19 Pin=FR ARRAY 3-3
+Added Pin To Net: NetName=IR_20 Pin=FR ARRAY 3-4
+Added Pin To Net: NetName=IR_21 Pin=FR ARRAY 3-5
+Added Pin To Net: NetName=IR_22 Pin=FR ARRAY 3-6
+Added Pin To Net: NetName=IR_23 Pin=FR ARRAY 3-7
+Added Pin To Net: NetName=IR_24 Pin=FR ARRAY 3-8
+Added Pin To Net: NetName=IR_25 Pin=FR ARRAY 3-9
+Added Pin To Net: NetName=+3V3 Pin=FR ARRAY 3-10
+Added Pin To Net: NetName=DITH/SYNC Pin=FR ARRAY 3-11
+Added Member To Class: ClassName=IrArray Member=Component FR ARRAY 1 BM11B-GHS-TBT_LF__SN__N_
+Added Member To Class: ClassName=IrArray Member=Component FR ARRAY 2 BM11B-GHS-TBT_LF__SN__N_
+Added Member To Class: ClassName=IrArray Member=Component FR ARRAY 3 BM11B-GHS-TBT_LF__SN__N_
+Added Member To Class: ClassName=MotorControl Member=Component J? TS-106-G-AA
+Added Member To Class: ClassName=IrArray Member=Component P? 61303421021
+Added Room: Name=IMU Unit
+Added Room: Name=IrArray
+Added Room: Name=MicroController
+Added Room: Name=MotorControl
+Added Room: Name=PowerManagement

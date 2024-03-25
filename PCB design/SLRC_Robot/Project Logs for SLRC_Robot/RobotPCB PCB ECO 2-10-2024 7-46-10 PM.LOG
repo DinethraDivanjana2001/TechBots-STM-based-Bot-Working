@@ -1,0 +1,339 @@
+Removed Pin From Net: NetName=I2C_RST_2 Pin=J?-1
+Removed Pin From Net: NetName=I2C_RST_3 Pin=J?-1
+Removed Pin From Net: NetName=I2C_RST_4 Pin=J?-1
+Removed Pin From Net: NetName=I2C_RST_5 Pin=J?-1
+Removed Pin From Net: NetName=I2C_RST_5 Pin=J?-1
+Removed Pin From Net: NetName=INT_1 Pin=J?-2
+Removed Pin From Net: NetName=INT_2 Pin=J?-2
+Removed Pin From Net: NetName=INT_3 Pin=J?-2
+Removed Pin From Net: NetName=INT_4 Pin=J?-2
+Removed Pin From Net: NetName=INT_5 Pin=J?-2
+Removed Pin From Net: NetName=INT_5 Pin=J?-2
+Removed Pin From Net: NetName=LPIN_1 Pin=J?-3
+Removed Pin From Net: NetName=LPIN_2 Pin=J?-3
+Removed Pin From Net: NetName=LPIN_3 Pin=J?-3
+Removed Pin From Net: NetName=LPIN_4 Pin=J?-3
+Removed Pin From Net: NetName=LPIN_5 Pin=J?-3
+Removed Pin From Net: NetName=LPIN_5 Pin=J?-3
+Removed Pin From Net: NetName=MCU_SCL Pin=J?-4
+Removed Pin From Net: NetName=MCU_SDA Pin=J?-5
+Removed Pin From Net: NetName=MCU_SDA Pin=J?-5
+Removed Pin From Net: NetName=MCU_SDA Pin=J?-5
+Removed Pin From Net: NetName=DITH/SYNC Pin=J?-6
+Removed Pin From Net: NetName=DITH/SYNC Pin=J?-6
+Removed Pin From Net: NetName=DITH/SYNC Pin=J?-6
+Removed Pin From Net: NetName=+3V3 Pin=J?-7
+Removed Pin From Net: NetName=+3V3 Pin=J?-7
+Removed Pin From Net: NetName=+3V3 Pin=J?-7
+Change Component Footprint: Designator=J? Old Footprint=BM07BGHSTBTLFSN New Footprint=FP-BM07B-GHS-TBT_LF_SN-MFG
+Change Component Footprint: Designator=J? Old Footprint=BM07BGHSTBTLFSN New Footprint=FP-BM07B-GHS-TBT_LF_SN-MFG
+Change Component Footprint: Designator=J? Old Footprint=BM07BGHSTBTLFSN New Footprint=HDRV3W64P0X254_1X3_762X254X869P
+Change Component Comment : Designator=J? Old Comment=BM07B-GHS-TBT__LF__SN_ New Comment=61300311121
+Change Component Comment : Designator=J? Old Comment=BM07B-GHS-TBT__LF__SN_ New Comment=BM07B-GHS-TBT (LF)(SN)
+Change Component Comment : Designator=J? Old Comment=BM07B-GHS-TBT__LF__SN_ New Comment=BM07B-GHS-TBT (LF)(SN)
+Change Managed Component Library Link : Designator=J? Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=0F40B4A7-1509-455E-A006-897728AA79D1 Old RevisionGUID= New RevisionGUID=5399CD01-83D1-4F00-868C-C2E2B8C41B8F
+Change Managed Component Library Link : Designator=J? Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=0F40B4A7-1509-455E-A006-897728AA79D1 Old RevisionGUID= New RevisionGUID=5399CD01-83D1-4F00-868C-C2E2B8C41B8F
+Change component parameters: Designator = "J?" ("J?"); Footprint = "BM07BGHSTBTLFSN"; UniqueID = "\KVCPUJGX" ("\KVCPUJGX")
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (AC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire/Cable Gauge"; Value = "26AWG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J?" ("J?"); Footprint = "BM07BGHSTBTLFSN"; UniqueID = "\SJDDLFPT" ("\SJDDLFPT")
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (AC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire/Cable Gauge"; Value = "26AWG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J?" ("J?"); Footprint = "BM07BGHSTBTLFSN"; UniqueID = "\QXNDAUPW" ("\QXNDAUPW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.69mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300311121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-61300311121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300311121?qs=PhR8RmCirEYxRWFJzNKsUw%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPC5750X280N
+Add Component: Footprint Not Found CAPC1005X55N
+Add Component: Footprint Not Found CAPC1608X80N
+Add Component: Footprint Not Found TPS55288RPMR
+Added Component: Designator=J?(FP-BM07B-GHS-TBT_LF_SN-MFG)
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "26AWG"; VariantName = "[No Variations]"
+Added Component: Designator=J?(FP-BM07B-GHS-TBT_LF_SN-MFG)
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "26AWG"; VariantName = "[No Variations]"
+Added Component: Designator=J?(FP-BM07B-GHS-TBT_LF_SN-MFG)
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "26AWG"; VariantName = "[No Variations]"
+Added Component: Designator=J?(FP-BM07B-GHS-TBT_LF_SN-MFG)
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "26AWG"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XAL6030182MEB
+Add Component: Footprint Not Found RESC2012X60N
+Added Component: Designator=R?(RESC1005X40X25ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-071K5L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1.5K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC1005X40N
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin Ccomp-1
+Add Pin To Net: Unknown Pin: Pin Ccomp-2
+Add Pin To Net: Unknown Pin: Pin Cvcc-1
+Add Pin To Net: Unknown Pin: Pin Cvcc-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin IC1-9
+Add Pin To Net: Unknown Pin: Pin IC1-10
+Add Pin To Net: Unknown Pin: Pin IC1-11
+Add Pin To Net: Unknown Pin: Pin IC1-12
+Add Pin To Net: Unknown Pin: Pin IC1-13
+Add Pin To Net: Unknown Pin: Pin IC1-14
+Add Pin To Net: Unknown Pin: Pin IC1-15
+Add Pin To Net: Unknown Pin: Pin IC1-17
+Add Pin To Net: Unknown Pin: Pin IC1-18
+Add Pin To Net: Unknown Pin: Pin IC1-19
+Add Pin To Net: Unknown Pin: Pin IC1-20
+Add Pin To Net: Unknown Pin: Pin IC1-21
+Add Pin To Net: Unknown Pin: Pin IC1-22
+Add Pin To Net: Unknown Pin: Pin IC1-23
+Add Pin To Net: Unknown Pin: Pin IC1-24
+Add Pin To Net: Unknown Pin: Pin IC1-25
+Add Pin To Net: Unknown Pin: Pin IC1-26
+Add Pin To Net: Unknown Pin: Pin IC1-27
+Add Pin To Net: Unknown Pin: Pin IC1-28
+Add Pin To Net: Unknown Pin: Pin IC1-29
+Add Pin To Net: Unknown Pin: Pin IC1-30
+Added Pin To Net: NetName=+3V3 Pin=J?-1
+Added Pin To Net: NetName=+3V3 Pin=J?-1
+Added Pin To Net: NetName=+3V3 Pin=J?-1
+Added Pin To Net: NetName=+3V3 Pin=J?-1
+Added Pin To Net: NetName=+3V3 Pin=J?-1
+Added Pin To Net: NetName=+3V3 Pin=J?-1
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-2
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-2
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-2
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-2
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-2
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-2
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-2
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-3
+Added Pin To Net: NetName=MCU_SDA Pin=J?-3
+Added Pin To Net: NetName=MCU_SDA Pin=J?-3
+Added Pin To Net: NetName=MCU_SDA Pin=J?-3
+Added Pin To Net: NetName=MCU_SDA Pin=J?-3
+Added Pin To Net: NetName=MCU_SDA Pin=J?-3
+Added Pin To Net: NetName=MCU_SDA Pin=J?-3
+Added Pin To Net: NetName=MCU_SCL Pin=J?-4
+Added Pin To Net: NetName=MCU_SCL Pin=J?-4
+Added Pin To Net: NetName=MCU_SCL Pin=J?-4
+Added Pin To Net: NetName=MCU_SCL Pin=J?-4
+Added Pin To Net: NetName=LPIN_1 Pin=J?-5
+Added Pin To Net: NetName=LPIN_2 Pin=J?-5
+Added Pin To Net: NetName=LPIN_3 Pin=J?-5
+Added Pin To Net: NetName=LPIN_4 Pin=J?-5
+Added Pin To Net: NetName=LPIN_5 Pin=J?-5
+Added Pin To Net: NetName=INT_1 Pin=J?-6
+Added Pin To Net: NetName=INT_2 Pin=J?-6
+Added Pin To Net: NetName=INT_3 Pin=J?-6
+Added Pin To Net: NetName=INT_4 Pin=J?-6
+Added Pin To Net: NetName=INT_5 Pin=J?-6
+Added Pin To Net: NetName=I2C_RST_2 Pin=J?-7
+Added Pin To Net: NetName=I2C_RST_3 Pin=J?-7
+Added Pin To Net: NetName=I2C_RST_4 Pin=J?-7
+Added Pin To Net: NetName=I2C_RST_5 Pin=J?-7
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Added Pin To Net: NetName=DITH/SYNC Pin=R?-1
+Add Pin To Net: Unknown Pin: Pin Rcomp-1
+Add Pin To Net: Unknown Pin: Pin Rcomp-2
+Change Net Name : Old Net Name=I2C_RST_1 New Net Name=+12
+Added Pin To Net: NetName=BAT_MEASURE Pin=R?-1
+Added Pin To Net: NetName=BAT_MEASURE Pin=R?-2
+Added Net: Name=BAT_MEASURE
+Added Pin To Net: NetName=I2C_RST_1 Pin=J?-7
+Added Net: Name=I2C_RST_1
+Added Pin To Net: NetName=I2C_RST_6 Pin=J?-7
+Added Net: Name=I2C_RST_6
+Added Pin To Net: NetName=INT_6 Pin=J?-6
+Added Net: Name=INT_6
+Added Pin To Net: NetName=LPIN_6 Pin=J?-5
+Added Net: Name=LPIN_6
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=R?-2
+Added Net: Name=NetJ?_1
+Change Class Name : Old Net Name=IMU Unit New Net Name=MotorControl
+Added Class: Name=IMU Unit
+Add Class Member: Failed to add class member : Component C5 CGA9P2X7R1E226M250KA
+Added Member To Class: ClassName=MotorControl Member=Component C? 10uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 0.01uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 1uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 0.01uF
+Added Member To Class: ClassName=MotorControl Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=MotorControl Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=MotorControl Member=Component C? 10uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 0.01uF
+Add Class Member: Failed to add class member : Component Ccomp GRM155R71C102KA01D
+Add Class Member: Failed to add class member : Component Cvcc C1608X6S1C475K080AC
+Added Member To Class: ClassName=MicroController Member=Component D? 150060VS75003
+Added Member To Class: ClassName=MicroController Member=Component D? 150060VS75003
+Added Member To Class: ClassName=MicroController Member=Component D? 150060VS75003
+Added Member To Class: ClassName=MicroController Member=Component D? 150060VS75003
+Added Member To Class: ClassName=MicroController Member=Component D? 150060VS75003
+Add Class Member: Failed to add class member : Component IC1 TPS55288RPMR
+Added Member To Class: ClassName=MotorControl Member=Component IC? DRV8262DDWR
+Added Member To Class: ClassName=MicroController Member=Component J? 61300311121
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT (LF)(SN)
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT (LF)(SN)
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT__LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? 61300311121
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT (LF)(SN)
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT__LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? 61300311121
+Added Member To Class: ClassName=MicroController Member=Component J? 61300311121
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT (LF)(SN)
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? 61300311121
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT (LF)(SN)
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT__LF__SN_
+Added Member To Class: ClassName=PowerManagement Member=Component J? XT30PB
+Add Class Member: Failed to add class member : Component L1 XAL6030-182MEB
+Added Member To Class: ClassName=MicroController Member=Component P? Header 5
+Add Class Member: Failed to add class member : Component R8 RT0805BRD0710K4L
+Added Member To Class: ClassName=MotorControl Member=Component R? ERJ3EKF1002V
+Added Member To Class: ClassName=MotorControl Member=Component R? ERJ-3EKF2611V
+Added Member To Class: ClassName=MotorControl Member=Component R? ERJ-3EKF2611V
+Added Member To Class: ClassName=MicroController Member=Component R? RC0402FR-07470RL
+Added Member To Class: ClassName=MicroController Member=Component R? RC0402FR-07470RL
+Added Member To Class: ClassName=MicroController Member=Component R? RC0402FR-07470RL
+Added Member To Class: ClassName=MicroController Member=Component R? RC0402FR-07470RL
+Added Member To Class: ClassName=MicroController Member=Component R? RC0402FR-07470RL
+Added Member To Class: ClassName=PowerManagement Member=Component R? RC0402FR-071K5L
+Added Member To Class: ClassName=PowerManagement Member=Component R? RC0402FR-0710KL
+Add Class Member: Failed to add class member : Component Rcomp CRCW0402294KFKED
+Added Room: Name=IMU Unit
+Added Room: Name=MicroController
+Added Room: Name=MotorControl
+Added Room: Name=PowerManagement

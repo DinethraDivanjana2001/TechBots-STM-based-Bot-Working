@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=DITH/SYNC Pin=FR ARRAY 1-1
+Removed Pin From Net: NetName=DITH/SYNC Pin=FR ARRAY 1-2
+Removed Pin From Net: NetName=+3V3 Pin=FR ARRAY 1-3
+Removed Pin From Net: NetName=+3V3 Pin=FR ARRAY 1-4
+Removed Pin From Net: NetName=IR_1 Pin=FR ARRAY 1-7
+Removed Pin From Net: NetName=IR_2 Pin=FR ARRAY 1-8
+Removed Pin From Net: NetName=IR_3 Pin=FR ARRAY 1-9
+Removed Pin From Net: NetName=IR_4 Pin=FR ARRAY 1-10
+Removed Pin From Net: NetName=IR_5 Pin=FR ARRAY 1-11
+Removed Pin From Net: NetName=IR_6 Pin=FR ARRAY 2-1
+Removed Pin From Net: NetName=IR_7 Pin=FR ARRAY 2-2
+Removed Pin From Net: NetName=IR_8 Pin=FR ARRAY 2-3
+Removed Pin From Net: NetName=IR_9 Pin=FR ARRAY 2-4
+Removed Pin From Net: NetName=IR_10 Pin=FR ARRAY 2-5
+Removed Pin From Net: NetName=IR_11 Pin=FR ARRAY 2-6
+Removed Pin From Net: NetName=IR_12 Pin=FR ARRAY 2-7
+Removed Pin From Net: NetName=IR_13 Pin=FR ARRAY 2-8
+Removed Pin From Net: NetName=IR_14 Pin=FR ARRAY 2-9
+Removed Pin From Net: NetName=IR_15 Pin=FR ARRAY 2-10
+Removed Pin From Net: NetName=IR_16 Pin=FR ARRAY 2-11
+Removed Pin From Net: NetName=IR_17 Pin=FR ARRAY 3-1
+Removed Pin From Net: NetName=IR_18 Pin=FR ARRAY 3-2
+Removed Pin From Net: NetName=IR_19 Pin=FR ARRAY 3-3
+Removed Pin From Net: NetName=IR_20 Pin=FR ARRAY 3-4
+Removed Pin From Net: NetName=IR_21 Pin=FR ARRAY 3-5
+Removed Pin From Net: NetName=IR_22 Pin=FR ARRAY 3-6
+Removed Pin From Net: NetName=IR_23 Pin=FR ARRAY 3-7
+Removed Pin From Net: NetName=IR_24 Pin=FR ARRAY 3-8
+Removed Pin From Net: NetName=IR_25 Pin=FR ARRAY 3-9
+Removed Pin From Net: NetName=+3V3 Pin=FR ARRAY 3-10
+Removed Pin From Net: NetName=DITH/SYNC Pin=FR ARRAY 3-11
+Removed Member From Class: ClassName=IrArray Member=FR ARRAY 1
+Removed Member From Class: ClassName=IrArray Member=FR ARRAY 2
+Removed Member From Class: ClassName=IrArray Member=FR ARRAY 3
+Removed Member From Class: ClassName=IrArray Member=IC1
+Removed Member From Class: ClassName=IrArray Member=IC2
+Removed Member From Class: ClassName=IrArray Member=P?
+Change Component Footprint: Designator=P? Old Footprint=61303421021 New Footprint=61303421021
+Added Class: Name=FrontIrArray
+Added Member To Class: ClassName=MotorControl Member=Component J? TS-106-G-AA
+Added Member To Class: ClassName=MotorControl Member=Component J? 5-146281-4
+Added Room: Name=FrontIrArray
+Added Room: Name=IMU Unit
+Added Room: Name=IrArray
+Added Room: Name=MicroController
+Added Room: Name=MotorControl
+Added Room: Name=PowerManagement

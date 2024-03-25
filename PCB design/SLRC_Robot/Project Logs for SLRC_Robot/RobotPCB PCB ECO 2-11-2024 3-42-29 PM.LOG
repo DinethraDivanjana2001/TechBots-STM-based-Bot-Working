@@ -1,0 +1,126 @@
+Removed Member From Class: ClassName=IMU Unit Member=C7
+Removed Member From Class: ClassName=IrArray Member=IC2
+Removed Member From Class: ClassName=MicroController Member=R17
+Add Component: Footprint Not Found CAPC5750X280N
+Add Component: Footprint Not Found CAPC1005X55N
+Add Component: Footprint Not Found CAPC1608X80N
+Add Component: Footprint Not Found TPS55288RPMR
+Added Component: Designator=J?(HDRV6W46P0X254_1X6_1524X254X676P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TS-106-G-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ts-106-g-aa/samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/catalog_english/ts.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.76mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS-106-G-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-TS106GAA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=200-TS106GAA"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDRV6W46P0X254_1X6_1524X254X676P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TS-106-G-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ts-106-g-aa/samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/catalog_english/ts.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.76mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS-106-G-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-TS106GAA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=200-TS106GAA"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDRV3W64P0X254_1X3_762X254X869P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.69mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300311121?qs=PhR8RmCirEYxRWFJzNKsUw%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XAL6030182MEB
+Add Component: Footprint Not Found RESC2012X60N
+Added Component: Designator=R?(RESC1005X40X25ML10T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1ETTP5101F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "5.1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25ML10T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1ETTP5101F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "5.1K"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC1005X40N
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin Ccomp-1
+Add Pin To Net: Unknown Pin: Pin Ccomp-2
+Add Pin To Net: Unknown Pin: Pin Cvcc-1
+Add Pin To Net: Unknown Pin: Pin Cvcc-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin IC1-9
+Add Pin To Net: Unknown Pin: Pin IC1-10
+Add Pin To Net: Unknown Pin: Pin IC1-11
+Add Pin To Net: Unknown Pin: Pin IC1-12
+Add Pin To Net: Unknown Pin: Pin IC1-13
+Add Pin To Net: Unknown Pin: Pin IC1-14
+Add Pin To Net: Unknown Pin: Pin IC1-15
+Add Pin To Net: Unknown Pin: Pin IC1-17
+Add Pin To Net: Unknown Pin: Pin IC1-18
+Add Pin To Net: Unknown Pin: Pin IC1-19
+Add Pin To Net: Unknown Pin: Pin IC1-20
+Add Pin To Net: Unknown Pin: Pin IC1-21
+Add Pin To Net: Unknown Pin: Pin IC1-22
+Add Pin To Net: Unknown Pin: Pin IC1-23
+Add Pin To Net: Unknown Pin: Pin IC1-24
+Add Pin To Net: Unknown Pin: Pin IC1-25
+Add Pin To Net: Unknown Pin: Pin IC1-26
+Add Pin To Net: Unknown Pin: Pin IC1-27
+Add Pin To Net: Unknown Pin: Pin IC1-28
+Add Pin To Net: Unknown Pin: Pin IC1-29
+Add Pin To Net: Unknown Pin: Pin IC1-30
+Added Pin To Net: NetName=+12 Pin=J?-1
+Added Pin To Net: NetName=+12 Pin=J?-1
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-2
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-2
+Added Pin To Net: NetName=+5 Pin=J?-3
+Added Pin To Net: NetName=+5 Pin=J?-3
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-4
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-4
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Added Pin To Net: NetName=DITH/SYNC Pin=R?-1
+Added Pin To Net: NetName=BAT+ Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin Rcomp-1
+Add Pin To Net: Unknown Pin: Pin Rcomp-2
+Added Pin To Net: NetName=BAT_VOLTAGE Pin=R?-1
+Added Pin To Net: NetName=BAT_VOLTAGE Pin=R?-2
+Added Net: Name=BAT_VOLTAGE
+Added Pin To Net: NetName=FR_MOTOR_EN_A Pin=J?-5
+Added Net: Name=FR_MOTOR_EN_A
+Added Pin To Net: NetName=FR_MOTOR_EN_B Pin=J?-6
+Added Net: Name=FR_MOTOR_EN_B
+Added Pin To Net: NetName=RR_MOTOR_EN_B Pin=J?-5
+Added Pin To Net: NetName=RR_MOTOR_EN_B Pin=J?-6
+Added Net: Name=RR_MOTOR_EN_B
+Add Class Member: Failed to add class member : Component C5 CGA9P2X7R1E226M250KA
+Added Member To Class: ClassName=IMU Unit Member=Component C17 CC0402KRX7R9BB103
+Add Class Member: Failed to add class member : Component Ccomp GRM155R71C102KA01D
+Add Class Member: Failed to add class member : Component Cvcc C1608X6S1C475K080AC
+Added Member To Class: ClassName=MicroController Member=Component D6 150060VS75003
+Add Class Member: Failed to add class member : Component IC1 TPS55288RPMR
+Added Member To Class: ClassName=IrArray Member=Component IC3 74HC4067PW,118
+Added Member To Class: ClassName=MicroController Member=Component J14 BM07B-GHS-TBT (LF)(SN)
+Added Member To Class: ClassName=MicroController Member=Component J? 61300311121
+Added Member To Class: ClassName=MotorControl Member=Component J? TS-106-G-AA
+Added Member To Class: ClassName=MotorControl Member=Component J? TS-106-G-AA
+Add Class Member: Failed to add class member : Component L1 XAL6030-182MEB
+Add Class Member: Failed to add class member : Component R8 RT0805BRD0710K4L
+Added Member To Class: ClassName=MicroController Member=Component R12 RC0402FR-07470RL
+Added Member To Class: ClassName=MicroController Member=Component R? RK73H1ETTP5101F
+Added Member To Class: ClassName=MicroController Member=Component R? RK73H1ETTP5101F
+Add Class Member: Failed to add class member : Component Rcomp CRCW0402294KFKED
+Added Room: Name=IMU Unit
+Added Room: Name=IrArray
+Added Room: Name=MicroController
+Added Room: Name=MotorControl
+Added Room: Name=PowerManagement

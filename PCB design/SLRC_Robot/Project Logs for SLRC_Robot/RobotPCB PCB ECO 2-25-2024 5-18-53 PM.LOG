@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=+12 Pin=J?-1
+Removed Pin From Net: NetName=PROXIMITY_IN Pin=J?-2
+Removed Pin From Net: NetName=GND Pin=J?-3
+Change Component Footprint: Designator=J? Old Footprint=HDRV3W64P0X254_1X3_762X254X869P New Footprint=FP-BM08B-GHS-TBT_LF_SN-MFG
+Change Component Comment : Designator=J? Old Comment=61300311121 New Comment=BM08B-GHS-TBT(LF)(SN)
+Change Managed Component Library Link : Designator=J? Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=541F3CC1-E96D-48FF-BE33-4AFE46C50572 Old RevisionGUID= New RevisionGUID=7B2FA65D-727D-45C9-BB6A-AF5501C34EF3
+Change component parameters: Designator = "J?" ("J?"); Footprint = "HDRV3W64P0X254_1X3_762X254X869P"; UniqueID = "\GFGYCEIE\TJCDYTUV" ("\GFGYCEIE\TJCDYTUV")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (AC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire/Cable Gauge"; Value = "26AWG"; VariantName = "[No Variations]"
+Add Net: Net with name "FB" already exists
+Added Pin To Net: NetName=LCD_CS Pin=J?-6
+Added Net: Name=LCD_CS
+Added Pin To Net: NetName=LCD_DS Pin=J?-4
+Added Net: Name=LCD_DS
+Added Pin To Net: NetName=LCD_MISO Pin=J?-1
+Added Net: Name=LCD_MISO
+Added Pin To Net: NetName=LCD_MOSI Pin=J?-3
+Added Net: Name=LCD_MOSI
+Added Pin To Net: NetName=LCD_RESET Pin=J?-5
+Added Net: Name=LCD_RESET
+Added Pin To Net: NetName=LCD_SCK Pin=J?-2
+Added Net: Name=LCD_SCK
+Add Net: Net with name "VCC" already exists

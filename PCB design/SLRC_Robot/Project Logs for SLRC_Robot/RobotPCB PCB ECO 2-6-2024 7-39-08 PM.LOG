@@ -1,0 +1,127 @@
+Add Component: Footprint Not Found CAPC5750X280N
+Add Component: Footprint Not Found CAPC1005X55N
+Add Component: Footprint Not Found CAPC1608X80N
+Add Component: Footprint Not Found TPS55288RPMR
+Add Component: Footprint Not Found XAL6030182MEB
+Add Component: Footprint Not Found RESC2012X60N
+Add Component: Footprint Not Found RESC1005X40N
+Added Component: Designator=U?(STM-LQFP100_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00071938.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D/A Converter"; Value = "2x12-bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "1024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "192"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "100-Pin Low Profile Quad Flat Package, 14 x 14 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 1, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F405VGT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) max (V)"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "1.8"; VariantName = "[No Variations]"
+Added Component: Designator=U?(STM-LQFP100_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00071938.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D/A Converter"; Value = "2x12-bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "1024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "192"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "100-Pin Low Profile Quad Flat Package, 14 x 14 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 1, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F405VGT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) max (V)"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "1.8"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin Ccomp-1
+Add Pin To Net: Unknown Pin: Pin Ccomp-2
+Add Pin To Net: Unknown Pin: Pin Cvcc-1
+Add Pin To Net: Unknown Pin: Pin Cvcc-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin IC1-9
+Add Pin To Net: Unknown Pin: Pin IC1-10
+Add Pin To Net: Unknown Pin: Pin IC1-11
+Add Pin To Net: Unknown Pin: Pin IC1-12
+Add Pin To Net: Unknown Pin: Pin IC1-13
+Add Pin To Net: Unknown Pin: Pin IC1-14
+Add Pin To Net: Unknown Pin: Pin IC1-15
+Add Pin To Net: Unknown Pin: Pin IC1-17
+Add Pin To Net: Unknown Pin: Pin IC1-18
+Add Pin To Net: Unknown Pin: Pin IC1-19
+Add Pin To Net: Unknown Pin: Pin IC1-20
+Add Pin To Net: Unknown Pin: Pin IC1-21
+Add Pin To Net: Unknown Pin: Pin IC1-22
+Add Pin To Net: Unknown Pin: Pin IC1-23
+Add Pin To Net: Unknown Pin: Pin IC1-24
+Add Pin To Net: Unknown Pin: Pin IC1-25
+Add Pin To Net: Unknown Pin: Pin IC1-26
+Add Pin To Net: Unknown Pin: Pin IC1-27
+Add Pin To Net: Unknown Pin: Pin IC1-28
+Add Pin To Net: Unknown Pin: Pin IC1-29
+Add Pin To Net: Unknown Pin: Pin IC1-30
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin Rcomp-1
+Add Pin To Net: Unknown Pin: Pin Rcomp-2
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=NetP?_2 Pin=P?-2
+Added Pin To Net: NetName=NetP?_2 Pin=U?-94
+Added Net: Name=NetP?_2
+Add Class Member: Failed to add class member : Component C5 CGA9P2X7R1E226M250KA
+Added Member To Class: ClassName=MotorControl Member=Component C? 0.01uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 0.01uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 1uF
+Added Member To Class: ClassName=MotorControl Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=MotorControl Member=Component C? 0.01uF
+Added Member To Class: ClassName=MotorControl Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=MotorControl Member=Component C? 10uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 10uF
+Add Class Member: Failed to add class member : Component Ccomp GRM155R71C102KA01D
+Add Class Member: Failed to add class member : Component Cvcc C1608X6S1C475K080AC
+Add Class Member: Failed to add class member : Component IC1 TPS55288RPMR
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT__LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT__LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT__LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT__LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT__LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT__LF__SN_
+Add Class Member: Failed to add class member : Component L1 XAL6030-182MEB
+Added Member To Class: ClassName=MicroController Member=Component P? Header 5
+Add Class Member: Failed to add class member : Component R8 RT0805BRD0710K4L
+Added Member To Class: ClassName=MotorControl Member=Component R? ERJ-3EKF2611V
+Added Member To Class: ClassName=MotorControl Member=Component R? ERJ3EKF1002V
+Add Class Member: Failed to add class member : Component Rcomp CRCW0402294KFKED
+Added Member To Class: ClassName=MicroController Member=Component U? STM32F405VGT6
+Added Member To Class: ClassName=MicroController Member=Component U? STM32F405VGT6
+Added Member To Class: ClassName=MotorControl Member=Component U? DRV8837DSGR

@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=R_IR_8 Pin=IC3-2
+Removed Pin From Net: NetName=R_IR_7 Pin=IC3-3
+Removed Pin From Net: NetName=R_IR_6 Pin=IC3-4
+Removed Pin From Net: NetName=R_IR_5 Pin=IC3-5
+Removed Pin From Net: NetName=R_IR_4 Pin=IC3-6
+Removed Pin From Net: NetName=R_IR_3 Pin=IC3-7
+Removed Pin From Net: NetName=R_IR_2 Pin=IC3-8
+Removed Pin From Net: NetName=R_IR_1 Pin=IC3-9
+Removed Member From Class: ClassName=Designator Member=J19
+Removed Member From Class: ClassName=Designator Member=J?
+Removed Member From Class: ClassName=Designator Member=R15
+Removed Member From Class: ClassName=Designator Member=R16
+Added Pin To Net: NetName=R_IR_1 Pin=IC3-2
+Added Pin To Net: NetName=R_IR_2 Pin=IC3-3
+Added Pin To Net: NetName=R_IR_3 Pin=IC3-4
+Added Pin To Net: NetName=R_IR_4 Pin=IC3-5
+Added Pin To Net: NetName=R_IR_5 Pin=IC3-6
+Added Pin To Net: NetName=R_IR_6 Pin=IC3-7
+Added Pin To Net: NetName=R_IR_7 Pin=IC3-8
+Added Pin To Net: NetName=R_IR_8 Pin=IC3-9
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "VCC" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component P? Header 4
+Added Member To Class: ClassName=FR ARRAY Member=Component P? 61303421021
+Added Member To Class: ClassName=RR ARRAY Member=Component P? 61302421021
+Added Room: Name=3.3V LDO
+Added Room: Name=Buck Boost Converter
+Added Room: Name=Buck Converter
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=FR ARRAY
+Added Room: Name=MCU
+Added Room: Name=RR ARRAY

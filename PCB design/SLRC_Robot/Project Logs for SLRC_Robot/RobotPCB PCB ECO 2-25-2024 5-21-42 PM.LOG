@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+12 Pin=J?-1
+Removed Pin From Net: NetName=PROXIMITY_IN Pin=J?-2
+Removed Pin From Net: NetName=GND Pin=J?-3
+Change Component Footprint: Designator=J? Old Footprint=HDRV3W64P0X254_1X3_762X254X869P New Footprint=FP-BM08B-GHS-TBT_LF_SN-MFG
+Change Component Comment : Designator=J? Old Comment=61300311121 New Comment=BM08B-GHS-TBT(LF)(SN)
+Add Net: Net with name "FB" already exists
+Added Pin To Net: NetName=LCD_CS Pin=J?-6
+Added Net: Name=LCD_CS
+Added Pin To Net: NetName=LCD_DS Pin=J?-4
+Added Net: Name=LCD_DS
+Added Pin To Net: NetName=LCD_MISO Pin=J?-1
+Added Net: Name=LCD_MISO
+Added Pin To Net: NetName=LCD_MOSI Pin=J?-3
+Added Net: Name=LCD_MOSI
+Added Pin To Net: NetName=LCD_RESET Pin=J?-5
+Added Net: Name=LCD_RESET
+Added Pin To Net: NetName=LCD_SCK Pin=J?-2
+Added Net: Name=LCD_SCK
+Add Net: Net with name "VCC" already exists

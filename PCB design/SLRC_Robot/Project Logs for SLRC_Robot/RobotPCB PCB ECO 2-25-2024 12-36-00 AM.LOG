@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BAT+ Pin=J20-MP1
+Removed Pin From Net: NetName=TOF_INT_5 Pin=U1-51
+Added Pin To Net: NetName=TOF_INT_5 Pin=U1-56
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "VCC" already exists

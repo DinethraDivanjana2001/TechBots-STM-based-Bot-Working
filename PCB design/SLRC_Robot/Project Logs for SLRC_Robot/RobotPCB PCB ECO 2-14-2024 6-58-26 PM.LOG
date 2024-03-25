@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=IC? NewDesignator=IC5
+Change Net Name : Old Net Name=NetIC?_2 New Net Name=NetIC5_2
+Change Net Name : Old Net Name=NetIC?_4 New Net Name=NetIC5_4
+Change Net Name : Old Net Name=NetIC?_8 New Net Name=NetIC5_8
+Change Net Name : Old Net Name=NetIC?_17 New Net Name=NetIC5_17
+Added Room: Name=IMU Unit
+Added Room: Name=IrArray
+Added Room: Name=MicroController
+Added Room: Name=MotorControl
+Added Room: Name=PowerManagement

@@ -1,0 +1,291 @@
+Removed Pin From Net: NetName=VCC Pin=C24-2
+Removed Pin From Net: NetName=FB Pin=IC5-14
+Removed Pin From Net: NetName=VCC Pin=IC5-19
+Removed Pin From Net: NetName=VCC Pin=IC5-30
+Removed Pin From Net: NetName=FR_ENCODER_A Pin=J22-5
+Removed Pin From Net: NetName=FR_ENCODER_B Pin=J22-6
+Removed Pin From Net: NetName=RR_ENCODER_A Pin=J24-5
+Removed Pin From Net: NetName=RR_ENCODER_B Pin=J24-6
+Removed Pin From Net: NetName=DITH/SYNC Pin=J?-5
+Removed Pin From Net: NetName=DITH/SYNC Pin=P?-1
+Removed Pin From Net: NetName=R_IR_15 Pin=P?-1
+Removed Pin From Net: NetName=DITH/SYNC Pin=P?-2
+Removed Pin From Net: NetName=+3V3 Pin=P?-3
+Removed Pin From Net: NetName=R_IR_13 Pin=P?-3
+Removed Pin From Net: NetName=+3V3 Pin=P?-4
+Removed Pin From Net: NetName=R_IR_14 Pin=P?-4
+Removed Pin From Net: NetName=FR_ARRAY_EVEN Pin=P?-5
+Removed Pin From Net: NetName=R_IR_11 Pin=P?-5
+Removed Pin From Net: NetName=FR_ARRAY_ODD Pin=P?-6
+Removed Pin From Net: NetName=R_IR_12 Pin=P?-6
+Removed Pin From Net: NetName=IR_2 Pin=P?-7
+Removed Pin From Net: NetName=R_IR_9 Pin=P?-7
+Removed Pin From Net: NetName=IR_1 Pin=P?-8
+Removed Pin From Net: NetName=R_IR_10 Pin=P?-8
+Removed Pin From Net: NetName=IR_4 Pin=P?-9
+Removed Pin From Net: NetName=R_IR_7 Pin=P?-9
+Removed Pin From Net: NetName=IR_3 Pin=P?-10
+Removed Pin From Net: NetName=R_IR_8 Pin=P?-10
+Removed Pin From Net: NetName=IR_6 Pin=P?-11
+Removed Pin From Net: NetName=R_IR_5 Pin=P?-11
+Removed Pin From Net: NetName=IR_5 Pin=P?-12
+Removed Pin From Net: NetName=R_IR_6 Pin=P?-12
+Removed Pin From Net: NetName=IR_8 Pin=P?-13
+Removed Pin From Net: NetName=R_IR_3 Pin=P?-13
+Removed Pin From Net: NetName=IR_7 Pin=P?-14
+Removed Pin From Net: NetName=R_IR_4 Pin=P?-14
+Removed Pin From Net: NetName=IR_10 Pin=P?-15
+Removed Pin From Net: NetName=R_IR_1 Pin=P?-15
+Removed Pin From Net: NetName=IR_9 Pin=P?-16
+Removed Pin From Net: NetName=R_IR_2 Pin=P?-16
+Removed Pin From Net: NetName=IR_12 Pin=P?-17
+Removed Pin From Net: NetName=RR_ARRAY_ODD Pin=P?-17
+Removed Pin From Net: NetName=IR_11 Pin=P?-18
+Removed Pin From Net: NetName=RR_ARRAY_EVEN Pin=P?-18
+Removed Pin From Net: NetName=+3V3 Pin=P?-19
+Removed Pin From Net: NetName=IR_14 Pin=P?-19
+Removed Pin From Net: NetName=IR_13 Pin=P?-20
+Removed Pin From Net: NetName=DITH/SYNC Pin=P?-21
+Removed Pin From Net: NetName=IR_16 Pin=P?-21
+Removed Pin From Net: NetName=IR_15 Pin=P?-22
+Removed Pin From Net: NetName=IR_18 Pin=P?-23
+Removed Pin From Net: NetName=IR_17 Pin=P?-24
+Removed Pin From Net: NetName=IR_20 Pin=P?-25
+Removed Pin From Net: NetName=IR_19 Pin=P?-26
+Removed Pin From Net: NetName=IR_22 Pin=P?-27
+Removed Pin From Net: NetName=IR_21 Pin=P?-28
+Removed Pin From Net: NetName=IR_24 Pin=P?-29
+Removed Pin From Net: NetName=IR_23 Pin=P?-30
+Removed Pin From Net: NetName=+3V3 Pin=P?-31
+Removed Pin From Net: NetName=IR_25 Pin=P?-32
+Removed Pin From Net: NetName=DITH/SYNC Pin=P?-33
+Removed Pin From Net: NetName=DITH/SYNC Pin=P?-34
+Removed Pin From Net: NetName=FB Pin=R8-1
+Removed Pin From Net: NetName=FB Pin=R21-2
+Removed Member From Class: ClassName=PowerManagement Member=C7
+Removed Member From Class: ClassName=PowerManagement Member=C8
+Removed Member From Class: ClassName=PowerManagement Member=C9
+Removed Member From Class: ClassName=PowerManagement Member=C10
+Removed Member From Class: ClassName=MotorControl Member=C13
+Removed Member From Class: ClassName=MotorControl Member=C14
+Removed Member From Class: ClassName=MotorControl Member=C15
+Removed Member From Class: ClassName=PowerManagement Member=C28
+Removed Member From Class: ClassName=PowerManagement Member=C29
+Removed Member From Class: ClassName=PowerManagement Member=C30
+Removed Member From Class: ClassName=PowerManagement Member=C31
+Removed Member From Class: ClassName=PowerManagement Member=C32
+Removed Member From Class: ClassName=PowerManagement Member=C33
+Removed Member From Class: ClassName=PowerManagement Member=C34
+Removed Member From Class: ClassName=PowerManagement Member=C35
+Removed Member From Class: ClassName=PowerManagement Member=C36
+Removed Member From Class: ClassName=PowerManagement Member=IC4
+Removed Member From Class: ClassName=PowerManagement Member=J19
+Removed Member From Class: ClassName=PowerManagement Member=L2
+Removed Member From Class: ClassName=PowerManagement Member=R15
+Removed Member From Class: ClassName=PowerManagement Member=R16
+Removed Member From Class: ClassName=PowerManagement Member=R22
+Removed Member From Class: ClassName=PowerManagement Member=R23
+Removed Member From Class: ClassName=PowerManagement Member=R24
+Removed Member From Class: ClassName=PowerManagement Member=R25
+Removed Member From Class: ClassName=MotorControl Member=U2
+Removed Member From Class: ClassName=PowerManagement Member=U5
+Change Component Footprint: Designator=P? Old Footprint=61302421021 New Footprint=61303421021
+Change Component Footprint: Designator=P? Old Footprint=61303421021 New Footprint=61302421021
+Change Component Footprint: Designator=J? Old Footprint=HDRV4W67P0X254_1X4_975X234X821P New Footprint=HDRV6W46P0X254_1X6_1524X254X676P
+Change Component Footprint: Designator=J? Old Footprint=HDRV6W46P0X254_1X6_1524X254X676P New Footprint=HDRV4W67P0X254_1X4_975X234X821P
+Change Component Comment : Designator=J? Old Comment=5-146281-4 New Comment=TS-106-G-AA
+Change Component Comment : Designator=P? Old Comment=61302421021 New Comment=61303421021
+Change Component Comment : Designator=P? Old Comment=61303421021 New Comment=61302421021
+Change Component Comment : Designator=J? Old Comment=TS-106-G-AA New Comment=5-146281-4
+Change Managed Component Library Link : Designator=P? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=10D7EA14-26C2-401D-8666-4668CB5C48D0 New ItemGUID=F0DF40E8-F763-435C-9FB2-1CC2EDBBC963 Old RevisionGUID=9B5A1A24-5A4D-42CD-B61C-E999B0F1728B New RevisionGUID=33386B09-94F8-450A-B787-CD2DF4D21899
+Change Managed Component Library Link : Designator=P? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F0DF40E8-F763-435C-9FB2-1CC2EDBBC963 New ItemGUID=10D7EA14-26C2-401D-8666-4668CB5C48D0 Old RevisionGUID=33386B09-94F8-450A-B787-CD2DF4D21899 New RevisionGUID=9B5A1A24-5A4D-42CD-B61C-E999B0F1728B
+Change component parameters: Designator = "J?" ("J?"); Footprint = "HDRV4W67P0X254_1X4_975X234X821P"; UniqueID = "\FRLBHKIM\CTXEUJII" ("\FRLBHKIM\CTXEUJII")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TS-106-G-AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ts-106-g-aa/samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/catalog_english/ts.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "6.76mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS-106-G-AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "200-TS106GAA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=200-TS106GAA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J?" ("J?"); Footprint = "HDRV6W46P0X254_1X6_1524X254X676P"; UniqueID = "\FRLBHKIM\XGNULVDK" ("\FRLBHKIM\XGNULVDK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "5-146281-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/5-146281-4/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F146281%7FG2%7Fpdf%7FEnglish%7FENG_CD_146281_G2.pdf%7F5-146281-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.21mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5-146281-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "571-5-146281-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5-146281-4?qs=bwpFY26eRVclyLuvT64BVw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P?" ("P?"); Footprint = "61303421021"; UniqueID = "\PYSNLJGU\ZKDVEKLD" ("\PYSNLJGU\ZKDVEKLD")
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "32855562"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P?" ("P?"); Footprint = "61302421021"; UniqueID = "\EOGKGBWQ\JJEJUNYB" ("\EOGKGBWQ\JJEJUNYB")
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.23mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "32855571"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "34"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "34"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "34"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT+ Pin=J19-1
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-5
+Added Pin To Net: NetName=DITH/SYNC Pin=P?-1
+Added Pin To Net: NetName=R_IR_15 Pin=P?-1
+Added Pin To Net: NetName=DITH/SYNC Pin=P?-2
+Added Pin To Net: NetName=+3V3 Pin=P?-3
+Added Pin To Net: NetName=R_IR_13 Pin=P?-3
+Added Pin To Net: NetName=+3V3 Pin=P?-4
+Added Pin To Net: NetName=R_IR_14 Pin=P?-4
+Added Pin To Net: NetName=FR_ARRAY_EVEN Pin=P?-5
+Added Pin To Net: NetName=R_IR_11 Pin=P?-5
+Added Pin To Net: NetName=FR_ARRAY_ODD Pin=P?-6
+Added Pin To Net: NetName=R_IR_12 Pin=P?-6
+Added Pin To Net: NetName=IR_2 Pin=P?-7
+Added Pin To Net: NetName=R_IR_9 Pin=P?-7
+Added Pin To Net: NetName=IR_1 Pin=P?-8
+Added Pin To Net: NetName=R_IR_10 Pin=P?-8
+Added Pin To Net: NetName=IR_4 Pin=P?-9
+Added Pin To Net: NetName=R_IR_7 Pin=P?-9
+Added Pin To Net: NetName=IR_3 Pin=P?-10
+Added Pin To Net: NetName=R_IR_8 Pin=P?-10
+Added Pin To Net: NetName=IR_6 Pin=P?-11
+Added Pin To Net: NetName=R_IR_5 Pin=P?-11
+Added Pin To Net: NetName=IR_5 Pin=P?-12
+Added Pin To Net: NetName=R_IR_6 Pin=P?-12
+Added Pin To Net: NetName=IR_8 Pin=P?-13
+Added Pin To Net: NetName=R_IR_3 Pin=P?-13
+Added Pin To Net: NetName=IR_7 Pin=P?-14
+Added Pin To Net: NetName=R_IR_4 Pin=P?-14
+Added Pin To Net: NetName=IR_10 Pin=P?-15
+Added Pin To Net: NetName=R_IR_1 Pin=P?-15
+Added Pin To Net: NetName=IR_9 Pin=P?-16
+Added Pin To Net: NetName=R_IR_2 Pin=P?-16
+Added Pin To Net: NetName=IR_12 Pin=P?-17
+Added Pin To Net: NetName=RR_ARRAY_ODD Pin=P?-17
+Added Pin To Net: NetName=IR_11 Pin=P?-18
+Added Pin To Net: NetName=RR_ARRAY_EVEN Pin=P?-18
+Added Pin To Net: NetName=+3V3 Pin=P?-19
+Added Pin To Net: NetName=IR_14 Pin=P?-19
+Added Pin To Net: NetName=IR_13 Pin=P?-20
+Added Pin To Net: NetName=DITH/SYNC Pin=P?-21
+Added Pin To Net: NetName=IR_16 Pin=P?-21
+Added Pin To Net: NetName=IR_15 Pin=P?-22
+Added Pin To Net: NetName=IR_18 Pin=P?-23
+Added Pin To Net: NetName=IR_17 Pin=P?-24
+Added Pin To Net: NetName=IR_20 Pin=P?-25
+Added Pin To Net: NetName=IR_19 Pin=P?-26
+Added Pin To Net: NetName=IR_22 Pin=P?-27
+Added Pin To Net: NetName=IR_21 Pin=P?-28
+Added Pin To Net: NetName=IR_24 Pin=P?-29
+Added Pin To Net: NetName=IR_23 Pin=P?-30
+Added Pin To Net: NetName=+3V3 Pin=P?-31
+Added Pin To Net: NetName=IR_25 Pin=P?-32
+Added Pin To Net: NetName=DITH/SYNC Pin=P?-33
+Added Pin To Net: NetName=DITH/SYNC Pin=P?-34
+Added Pin To Net: NetName=BAT+ Pin=R15-2
+Change Net Name : Old Net Name=BAT_MEASURE New Net Name=NetR15_1
+Change Net Name : Old Net Name=FR_ARR_OUT_1 New Net Name=NetIC1_1
+Change Net Name : Old Net Name=FR_ARR_OUT_2 New Net Name=NetIC2_1
+Change Net Name : Old Net Name=FR_MUX1_S0 New Net Name=NetIC1_10
+Change Net Name : Old Net Name=FR_MUX1_S1 New Net Name=NetIC1_11
+Change Net Name : Old Net Name=FR_MUX1_S2 New Net Name=NetIC1_14
+Change Net Name : Old Net Name=FR_MUX1_S3 New Net Name=NetIC1_13
+Change Net Name : Old Net Name=FR_MUX2_S0 New Net Name=NetIC2_10
+Change Net Name : Old Net Name=FR_MUX2_S1 New Net Name=NetIC2_11
+Change Net Name : Old Net Name=FR_MUX2_S2 New Net Name=NetIC2_14
+Change Net Name : Old Net Name=FR_MUX2_S3 New Net Name=NetIC2_13
+Change Net Name : Old Net Name=IMU_INT New Net Name=NetU3_12
+Change Net Name : Old Net Name=RR_ARR_OUT_1 New Net Name=NetIC3_1
+Change Net Name : Old Net Name=SCL New Net Name=NetU3_23
+Change Net Name : Old Net Name=SDA New Net Name=NetU3_24
+Add Net: Net with name "FB" already exists
+Added Pin To Net: NetName=NetIC3_10 Pin=IC3-10
+Added Net: Name=NetIC3_10
+Added Pin To Net: NetName=NetIC3_11 Pin=IC3-11
+Added Net: Name=NetIC3_11
+Added Pin To Net: NetName=NetIC3_13 Pin=IC3-13
+Added Net: Name=NetIC3_13
+Added Pin To Net: NetName=NetIC3_14 Pin=IC3-14
+Added Net: Name=NetIC3_14
+Added Pin To Net: NetName=NetJ22_1 Pin=J22-1
+Added Pin To Net: NetName=NetJ22_1 Pin=J?-1
+Added Net: Name=NetJ22_1
+Added Pin To Net: NetName=NetJ22_2 Pin=J22-2
+Added Pin To Net: NetName=NetJ22_2 Pin=J?-2
+Added Net: Name=NetJ22_2
+Added Pin To Net: NetName=NetJ22_5 Pin=J22-5
+Added Net: Name=NetJ22_5
+Added Pin To Net: NetName=NetJ22_6 Pin=J22-6
+Added Net: Name=NetJ22_6
+Added Pin To Net: NetName=NetJ24_1 Pin=J24-1
+Added Pin To Net: NetName=NetJ24_1 Pin=J?-3
+Added Net: Name=NetJ24_1
+Added Pin To Net: NetName=NetJ24_2 Pin=J24-2
+Added Pin To Net: NetName=NetJ24_2 Pin=J?-4
+Added Net: Name=NetJ24_2
+Added Pin To Net: NetName=NetJ24_5 Pin=J24-5
+Added Net: Name=NetJ24_5
+Added Pin To Net: NetName=NetJ24_6 Pin=J24-6
+Added Net: Name=NetJ24_6
+Add Net: Net with name "VCC" already exists
+Change Class Name : Old Net Name=FrontIrArray New Net Name=FR ARRAY
+Change Class Name : Old Net Name=IMU Unit New Net Name=Designator
+Change Class Name : Old Net Name=IrArray New Net Name=RR ARRAY
+Change Class Name : Old Net Name=MicroController New Net Name=MCU
+Change Class Name : Old Net Name=MotorControl New Net Name=Designator
+Change Class Name : Old Net Name=PowerManagement New Net Name=Buck Boost Converter
+Added Class: Name=3.3V LDO
+Added Class: Name=Buck Converter
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component J? TS-106-G-AA
+Added Room: Name=3.3V LDO
+Added Room: Name=Buck Boost Converter
+Added Room: Name=Buck Converter
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=FR ARRAY
+Added Room: Name=MCU
+Added Room: Name=RR ARRAY

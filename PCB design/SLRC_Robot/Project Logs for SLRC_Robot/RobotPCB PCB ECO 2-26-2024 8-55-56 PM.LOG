@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=IC? NewDesignator=IC6
+Change Net Name : Old Net Name=NetIC?_2 New Net Name=NetIC6_2
+Change Net Name : Old Net Name=NetIC?_3 New Net Name=NetIC6_3
+Change Net Name : Old Net Name=NetIC?_5 New Net Name=NetIC6_5
+Change Net Name : Old Net Name=NetIC?_6 New Net Name=NetIC6_6
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "VCC" already exists

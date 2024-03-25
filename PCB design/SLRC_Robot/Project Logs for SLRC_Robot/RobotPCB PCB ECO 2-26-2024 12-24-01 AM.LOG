@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=CLR_INT_3 Pin=U1-1
+Removed Pin From Net: NetName=CLR_LED_2 Pin=U1-3
+Removed Pin From Net: NetName=CLR_INT_2 Pin=U1-98
+Added Pin To Net: NetName=CLR_INT_2 Pin=U1-97
+Added Pin To Net: NetName=CLR_LED_2 Pin=U1-98
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "VCC" already exists
