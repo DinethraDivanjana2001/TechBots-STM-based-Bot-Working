@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=IC4-12
+Added Pin To Net: NetName=BAT+ Pin=C28-2
+Added Pin To Net: NetName=BAT+ Pin=C29-1
+Added Pin To Net: NetName=BAT+ Pin=C30-2
+Added Pin To Net: NetName=BAT+ Pin=C31-1
+Added Pin To Net: NetName=+5 Pin=C32-2
+Added Pin To Net: NetName=+5 Pin=C33-1
+Added Pin To Net: NetName=+5 Pin=C34-1
+Added Pin To Net: NetName=BAT+ Pin=IC4-2
+Added Pin To Net: NetName=+5 Pin=IC4-5
+Added Pin To Net: NetName=VCC Pin=IC4-12
+Added Pin To Net: NetName=BAT+ Pin=IC4-13
+Added Pin To Net: NetName=BAT+ Pin=IC4-14
+Added Pin To Net: NetName=+5 Pin=L2-2
+Added Pin To Net: NetName=+5 Pin=R22-2
+Added Pin To Net: NetName=+5 Pin=R24-2

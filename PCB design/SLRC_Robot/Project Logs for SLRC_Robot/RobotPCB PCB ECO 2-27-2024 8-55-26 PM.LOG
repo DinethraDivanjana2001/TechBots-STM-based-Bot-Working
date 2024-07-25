@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=SW1 Pin=C4-1
+Removed Pin From Net: NetName=SW2 Pin=L1-1
+Removed Pin From Net: NetName=SW1 Pin=L1-2
+Change Component Footprint: Designator=C4 Old Footprint=FP-CBR04C-MFG New Footprint=CAPC1050X55X23ML05T13
+Change Component Footprint: Designator=C5 Old Footprint=FP-CBR04C-MFG New Footprint=CAPC1050X55X23ML05T13
+Change Component Comment : Designator=C4 Old Comment=CBR04C108B1GAC New Comment=CL05B104KO5NNNC
+Change Component Comment : Designator=C5 Old Comment=CBR04C108B1GAC New Comment=CL05B104KO5NNNC
+Change Managed Component Library Link : Designator=C4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=FAE6832B-1F7E-4449-8428-389AFC5DB93F New ItemGUID=1154ADC4-9949-4CD4-9518-E6026EDCB16E Old RevisionGUID=82304649-F8AC-440F-9456-4C8A3F93B6D1 New RevisionGUID=04E348BC-2832-4FFE-872D-2FB64B2D2813
+Change Managed Component Library Link : Designator=C5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=FAE6832B-1F7E-4449-8428-389AFC5DB93F New ItemGUID=1154ADC4-9949-4CD4-9518-E6026EDCB16E Old RevisionGUID=82304649-F8AC-440F-9456-4C8A3F93B6D1 New RevisionGUID=04E348BC-2832-4FFE-872D-2FB64B2D2813
+Change component parameters: Designator = "C4" ("C4"); Footprint = "FP-CBR04C-MFG"; UniqueID = "\KORCODTN\KIZNQNQO\KILBVVHF" ("\KORCODTN\KIZNQNQO\KILBVVHF")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/29198/458718-da-01-en-vs-kondensator-0402-29198423.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Nov-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.samsungsem.com/global/index.jsp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "FP-CBR04C-MFG"; UniqueID = "\KORCODTN\KIZNQNQO\FPHIYTLA" ("\KORCODTN\KIZNQNQO\FPHIYTLA")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/29198/458718-da-01-en-vs-kondensator-0402-29198423.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Nov-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.samsungsem.com/global/index.jsp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SW1 Pin=C4-2
+Added Pin To Net: NetName=VOUT Pin=C14-1
+Added Pin To Net: NetName=VOUT Pin=C15-2
+Added Pin To Net: NetName=VOUT Pin=C49-2
+Added Pin To Net: NetName=MCU_SCL_1 Pin=IC5-5
+Added Pin To Net: NetName=MCU_SDA_1 Pin=IC5-6
+Added Pin To Net: NetName=VOUT Pin=IC6-1
+Added Pin To Net: NetName=VOUT Pin=J4-1
+Added Pin To Net: NetName=NetC1_2 Pin=J19-1
+Added Pin To Net: NetName=SW1 Pin=L1-1
+Added Pin To Net: NetName=SW2 Pin=L1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R15-2
+Change Net Name : Old Net Name=FR_ARRAY_EVEN New Net Name=NetP4_5
+Change Net Name : Old Net Name=FR_ARRAY_ODD New Net Name=NetP4_6
+Change Net Name : Old Net Name=NetC1_2 New Net Name=BAT+
+Change Net Name : Old Net Name=RR_ARRAY_EVEN New Net Name=NetP3_18
+Change Net Name : Old Net Name=RR_ARRAY_ODD New Net Name=NetP3_17
+Change Net Name : Old Net Name=VOUT New Net Name=+12
+Add Net: Net with name "FB" already exists
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=IC5-22
+Added Net: Name=NetC4_1
+Add Net: Net with name "VCC" already exists

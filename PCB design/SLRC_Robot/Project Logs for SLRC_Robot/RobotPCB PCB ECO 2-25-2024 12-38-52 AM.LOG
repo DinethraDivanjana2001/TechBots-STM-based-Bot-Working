@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetJ24_6 Pin=U1-59
+Added Pin To Net: NetName=NetJ24_5 Pin=U1-60
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "VCC" already exists

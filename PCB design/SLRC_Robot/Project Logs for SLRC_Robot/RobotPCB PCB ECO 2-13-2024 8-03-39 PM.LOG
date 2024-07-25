@@ -1,0 +1,272 @@
+Removed Member From Class: ClassName=IrArray Member=J?
+Change Footprint: Cannot match pads with new footprint in component :R? Footprint:RESC1005X40X25LL05T10
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=J22 NewDesignator=FR ARRAY 2
+Change Component Designator: OldDesignator=J? NewDesignator=FR ARRAY 1
+Change Component Designator: OldDesignator=J? NewDesignator=FR ARRAY 3
+Add Component: Footprint Not Found CAPC5750X280N
+Added Component: Designator=C?(FP-GRM155-0_05-MFG)
+Added Component: Designator=C?(FP-GRM155-0_05-MFG)
+Added Component: Designator=C?(FP-GRM155-0_05-MFG)
+Add Component: Footprint Not Found CAPC1005X55N
+Add Component: Footprint Not Found CAPC1608X80N
+Add Component: Footprint Not Found TPS55288RPMR
+Add Component: Footprint Not Found XAL6030182MEB
+Add Component: Footprint Not Found RESC2012X60N
+Add Component: Footprint Not Found RESC1005X40N
+Added Component: Designator=U?(PW0016A_N)
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin Ccomp-1
+Add Pin To Net: Unknown Pin: Pin Ccomp-2
+Add Pin To Net: Unknown Pin: Pin Cvcc-1
+Add Pin To Net: Unknown Pin: Pin Cvcc-2
+Added Pin To Net: NetName=DITH/SYNC Pin=FR ARRAY 1-1
+Added Pin To Net: NetName=DITH/SYNC Pin=FR ARRAY 1-2
+Added Pin To Net: NetName=+3V3 Pin=FR ARRAY 1-3
+Added Pin To Net: NetName=+3V3 Pin=FR ARRAY 1-4
+Added Pin To Net: NetName=+3V3 Pin=FR ARRAY 3-10
+Added Pin To Net: NetName=DITH/SYNC Pin=FR ARRAY 3-11
+Added Pin To Net: NetName=DR1L Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-3
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=DITH/SYNC Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_8 Pin=IC1-8
+Added Pin To Net: NetName=DITH/SYNC Pin=IC1-9
+Added Pin To Net: NetName=DITH/SYNC Pin=IC1-10
+Added Pin To Net: NetName=VOUT Pin=IC1-11
+Added Pin To Net: NetName=DITH/SYNC Pin=IC1-12
+Added Pin To Net: NetName=VOUT Pin=IC1-12
+Added Pin To Net: NetName=VOUT Pin=IC1-13
+Added Pin To Net: NetName=FB Pin=IC1-14
+Added Pin To Net: NetName=DITH/SYNC Pin=IC1-15
+Added Pin To Net: NetName=NetIC1_17 Pin=IC1-17
+Added Pin To Net: NetName=NetCcomp2_2 Pin=IC1-18
+Added Pin To Net: NetName=VCC Pin=IC1-19
+Added Pin To Net: NetName=NetCboot2_2 Pin=IC1-20
+Added Pin To Net: NetName=SW2 Pin=IC1-21
+Added Pin To Net: NetName=NetCboot_2 Pin=IC1-22
+Added Pin To Net: NetName=SW1 Pin=IC1-23
+Added Pin To Net: NetName=+3V3 Pin=IC1-24
+Added Pin To Net: NetName=DITH/SYNC Pin=IC1-24
+Add Pin To Net: Unknown Pin: Pin IC1-25
+Add Pin To Net: Unknown Pin: Pin IC1-26
+Add Pin To Net: Unknown Pin: Pin IC1-27
+Add Pin To Net: Unknown Pin: Pin IC1-28
+Add Pin To Net: Unknown Pin: Pin IC1-29
+Add Pin To Net: Unknown Pin: Pin IC1-30
+Added Pin To Net: NetName=DITH/SYNC Pin=IC2-12
+Added Pin To Net: NetName=DITH/SYNC Pin=IC2-15
+Added Pin To Net: NetName=+3V3 Pin=IC2-24
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Pin To Net: NetName=+3V3 Pin=P1-4
+Added Pin To Net: NetName=DITH/SYNC Pin=P1-5
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin Rcomp-1
+Add Pin To Net: Unknown Pin: Pin Rcomp-2
+Added Pin To Net: NetName=CLR_INT_3 Pin=U1-1
+Added Pin To Net: NetName=CLR_LED_2 Pin=U1-2
+Added Pin To Net: NetName=CLR_LED_3 Pin=U1-3
+Added Pin To Net: NetName=CLR_LED_4 Pin=U1-4
+Added Pin To Net: NetName=CLR_LED_1 Pin=U1-7
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-2
+Add Pin To Net: Unknown Pin: Pin U?-3
+Add Pin To Net: Unknown Pin: Pin U?-4
+Add Pin To Net: Unknown Pin: Pin U?-5
+Add Pin To Net: Unknown Pin: Pin U?-6
+Add Pin To Net: Unknown Pin: Pin U?-7
+Add Pin To Net: Unknown Pin: Pin U?-8
+Add Pin To Net: Unknown Pin: Pin U?-9
+Add Pin To Net: Unknown Pin: Pin U?-10
+Add Pin To Net: Unknown Pin: Pin U?-11
+Add Pin To Net: Unknown Pin: Pin U?-12
+Add Pin To Net: Unknown Pin: Pin U?-13
+Add Pin To Net: Unknown Pin: Pin U?-16
+Added Pin To Net: NetName=FR_ARR_OUT_1 Pin=IC1-1
+Added Net: Name=FR_ARR_OUT_1
+Added Pin To Net: NetName=FR_ARR_OUT_2 Pin=IC2-1
+Added Net: Name=FR_ARR_OUT_2
+Added Pin To Net: NetName=FR_ARRAY_EVEN Pin=FR ARRAY 1-5
+Added Net: Name=FR_ARRAY_EVEN
+Added Pin To Net: NetName=FR_ARRAY_ODD Pin=FR ARRAY 1-6
+Added Net: Name=FR_ARRAY_ODD
+Added Pin To Net: NetName=FR_ENCODER_A Pin=J?-5
+Added Pin To Net: NetName=FR_ENCODER_A Pin=U1-91
+Added Net: Name=FR_ENCODER_A
+Added Pin To Net: NetName=FR_ENCODER_B Pin=J?-6
+Added Pin To Net: NetName=FR_ENCODER_B Pin=U1-90
+Added Net: Name=FR_ENCODER_B
+Added Pin To Net: NetName=FR_MUX1_S0 Pin=IC1-10
+Added Net: Name=FR_MUX1_S0
+Added Pin To Net: NetName=FR_MUX1_S1 Pin=IC1-11
+Added Net: Name=FR_MUX1_S1
+Added Pin To Net: NetName=FR_MUX1_S2 Pin=IC1-14
+Added Net: Name=FR_MUX1_S2
+Added Pin To Net: NetName=FR_MUX1_S3 Pin=IC1-13
+Added Net: Name=FR_MUX1_S3
+Added Pin To Net: NetName=FR_MUX2_S0 Pin=IC2-10
+Added Net: Name=FR_MUX2_S0
+Added Pin To Net: NetName=FR_MUX2_S1 Pin=IC2-11
+Added Net: Name=FR_MUX2_S1
+Added Pin To Net: NetName=FR_MUX2_S2 Pin=IC2-14
+Added Net: Name=FR_MUX2_S2
+Added Pin To Net: NetName=FR_MUX2_S3 Pin=IC2-13
+Added Net: Name=FR_MUX2_S3
+Added Pin To Net: NetName=IR_1 Pin=FR ARRAY 1-7
+Added Pin To Net: NetName=IR_1 Pin=IC1-9
+Added Net: Name=IR_1
+Added Pin To Net: NetName=IR_2 Pin=FR ARRAY 1-8
+Added Pin To Net: NetName=IR_2 Pin=IC1-8
+Added Net: Name=IR_2
+Added Pin To Net: NetName=IR_3 Pin=FR ARRAY 1-9
+Added Pin To Net: NetName=IR_3 Pin=IC1-7
+Added Net: Name=IR_3
+Added Pin To Net: NetName=IR_4 Pin=FR ARRAY 1-10
+Added Pin To Net: NetName=IR_4 Pin=IC1-6
+Added Net: Name=IR_4
+Added Pin To Net: NetName=IR_5 Pin=FR ARRAY 1-11
+Added Pin To Net: NetName=IR_5 Pin=IC1-5
+Added Net: Name=IR_5
+Added Pin To Net: NetName=IR_6 Pin=FR ARRAY 2-1
+Added Pin To Net: NetName=IR_6 Pin=IC1-4
+Added Net: Name=IR_6
+Added Pin To Net: NetName=IR_7 Pin=FR ARRAY 2-2
+Added Pin To Net: NetName=IR_7 Pin=IC1-3
+Added Net: Name=IR_7
+Added Pin To Net: NetName=IR_8 Pin=FR ARRAY 2-3
+Added Pin To Net: NetName=IR_8 Pin=IC1-2
+Added Net: Name=IR_8
+Added Pin To Net: NetName=IR_9 Pin=FR ARRAY 2-4
+Added Pin To Net: NetName=IR_9 Pin=IC1-23
+Added Net: Name=IR_9
+Added Pin To Net: NetName=IR_10 Pin=FR ARRAY 2-5
+Added Pin To Net: NetName=IR_10 Pin=IC1-22
+Added Net: Name=IR_10
+Added Pin To Net: NetName=IR_11 Pin=FR ARRAY 2-6
+Added Pin To Net: NetName=IR_11 Pin=IC1-21
+Added Net: Name=IR_11
+Added Pin To Net: NetName=IR_12 Pin=FR ARRAY 2-7
+Added Pin To Net: NetName=IR_12 Pin=IC1-20
+Added Net: Name=IR_12
+Added Pin To Net: NetName=IR_13 Pin=FR ARRAY 2-8
+Added Pin To Net: NetName=IR_13 Pin=IC1-19
+Added Net: Name=IR_13
+Added Pin To Net: NetName=IR_14 Pin=FR ARRAY 2-9
+Added Pin To Net: NetName=IR_14 Pin=IC1-18
+Added Net: Name=IR_14
+Added Pin To Net: NetName=IR_15 Pin=FR ARRAY 2-10
+Added Pin To Net: NetName=IR_15 Pin=IC1-17
+Added Net: Name=IR_15
+Added Pin To Net: NetName=IR_16 Pin=FR ARRAY 2-11
+Added Pin To Net: NetName=IR_16 Pin=IC1-16
+Added Net: Name=IR_16
+Added Pin To Net: NetName=IR_17 Pin=FR ARRAY 3-1
+Added Pin To Net: NetName=IR_17 Pin=IC2-9
+Added Net: Name=IR_17
+Added Pin To Net: NetName=IR_18 Pin=FR ARRAY 3-2
+Added Pin To Net: NetName=IR_18 Pin=IC2-8
+Added Net: Name=IR_18
+Added Pin To Net: NetName=IR_19 Pin=FR ARRAY 3-3
+Added Pin To Net: NetName=IR_19 Pin=IC2-7
+Added Net: Name=IR_19
+Added Pin To Net: NetName=IR_20 Pin=FR ARRAY 3-4
+Added Pin To Net: NetName=IR_20 Pin=IC2-6
+Added Net: Name=IR_20
+Added Pin To Net: NetName=IR_21 Pin=FR ARRAY 3-5
+Added Pin To Net: NetName=IR_21 Pin=IC2-5
+Added Net: Name=IR_21
+Added Pin To Net: NetName=IR_22 Pin=FR ARRAY 3-6
+Added Pin To Net: NetName=IR_22 Pin=IC2-4
+Added Net: Name=IR_22
+Added Pin To Net: NetName=IR_23 Pin=FR ARRAY 3-7
+Added Pin To Net: NetName=IR_23 Pin=IC2-3
+Added Net: Name=IR_23
+Added Pin To Net: NetName=IR_24 Pin=FR ARRAY 3-8
+Added Pin To Net: NetName=IR_24 Pin=IC2-2
+Added Net: Name=IR_24
+Added Pin To Net: NetName=IR_25 Pin=FR ARRAY 3-9
+Added Pin To Net: NetName=IR_25 Pin=IC2-23
+Added Net: Name=IR_25
+Added Pin To Net: NetName=RR_ENCODER_A Pin=J?-5
+Added Pin To Net: NetName=RR_ENCODER_A Pin=U1-60
+Added Net: Name=RR_ENCODER_A
+Added Pin To Net: NetName=RR_ENCODER_B Pin=J?-6
+Added Pin To Net: NetName=RR_ENCODER_B Pin=U1-59
+Added Net: Name=RR_ENCODER_B
+Added Pin To Net: NetName=SWCLK Pin=P1-2
+Added Pin To Net: NetName=SWCLK Pin=U1-76
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=P1-3
+Added Pin To Net: NetName=SWDIO Pin=U1-72
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=SWO Pin=P1-1
+Added Pin To Net: NetName=SWO Pin=U1-89
+Added Net: Name=SWO
+Added Pin To Net: NetName=TOF_INT_1 Pin=J?-1
+Added Pin To Net: NetName=TOF_INT_1 Pin=U1-70
+Added Net: Name=TOF_INT_1
+Added Pin To Net: NetName=TOF_INT_2 Pin=J?-1
+Added Pin To Net: NetName=TOF_INT_2 Pin=U1-68
+Added Net: Name=TOF_INT_2
+Added Pin To Net: NetName=TOF_INT_3 Pin=J?-1
+Added Pin To Net: NetName=TOF_INT_3 Pin=U1-62
+Added Net: Name=TOF_INT_3
+Added Pin To Net: NetName=TOF_INT_4 Pin=J?-1
+Added Pin To Net: NetName=TOF_INT_4 Pin=U1-58
+Added Net: Name=TOF_INT_4
+Added Pin To Net: NetName=TOF_INT_5 Pin=J?-1
+Added Pin To Net: NetName=TOF_INT_5 Pin=U1-51
+Added Net: Name=TOF_INT_5
+Added Pin To Net: NetName=TOF_INT_6 Pin=J?-1
+Added Pin To Net: NetName=TOF_INT_6 Pin=U1-45
+Added Net: Name=TOF_INT_6
+Added Pin To Net: NetName=TOF_LPIN_1 Pin=J?-2
+Added Pin To Net: NetName=TOF_LPIN_1 Pin=U1-69
+Added Net: Name=TOF_LPIN_1
+Added Pin To Net: NetName=TOF_LPIN_2 Pin=J?-2
+Added Pin To Net: NetName=TOF_LPIN_2 Pin=U1-67
+Added Net: Name=TOF_LPIN_2
+Added Pin To Net: NetName=TOF_LPIN_3 Pin=J?-2
+Added Pin To Net: NetName=TOF_LPIN_3 Pin=U1-61
+Added Net: Name=TOF_LPIN_3
+Added Pin To Net: NetName=TOF_LPIN_4 Pin=J?-2
+Added Pin To Net: NetName=TOF_LPIN_4 Pin=U1-57
+Added Net: Name=TOF_LPIN_4
+Added Pin To Net: NetName=TOF_LPIN_5 Pin=J?-2
+Added Pin To Net: NetName=TOF_LPIN_5 Pin=U1-55
+Added Net: Name=TOF_LPIN_5
+Added Pin To Net: NetName=TOF_LPIN_6 Pin=J?-2
+Added Pin To Net: NetName=TOF_LPIN_6 Pin=U1-46
+Added Net: Name=TOF_LPIN_6
+Add Class Member: Failed to add class member : Component C5 CGA9P2X7R1E226M250KA
+Add Class Member: Failed to add class member : Component C? GRM155R61A225KE95D
+Add Class Member: Failed to add class member : Component C? GRM155R61A225KE95D
+Add Class Member: Failed to add class member : Component C? GRM155R61A225KE95D
+Add Class Member: Failed to add class member : Component Ccomp GRM155R71C102KA01D
+Add Class Member: Failed to add class member : Component Cvcc C1608X6S1C475K080AC
+Added Member To Class: ClassName=IrArray Member=Component FR ARRAY 1 BM11B-GHS-TBT_LF__SN__N_
+Added Member To Class: ClassName=IrArray Member=Component FR ARRAY 3 BM11B-GHS-TBT_LF__SN__N_
+Added Member To Class: ClassName=IrArray Member=Component IC1 74HC4067PW,118
+Added Member To Class: ClassName=PowerManagement Member=Component IC1 TPS55288RPMR
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? 61300311121
+Added Member To Class: ClassName=MotorControl Member=Component J? TS-106-G-AA
+Add Class Member: Failed to add class member : Component L1 XAL6030-182MEB
+Add Class Member: Failed to add class member : Component R8 RT0805BRD0710K4L
+Added Member To Class: ClassName=MicroController Member=Component R? RC0402FR-0710KL
+Add Class Member: Failed to add class member : Component Rcomp CRCW0402294KFKED
+Add Class Member: Failed to add class member : Component U? PCA9546APWR
+Added Room: Name=IMU Unit
+Added Room: Name=IrArray
+Added Room: Name=MicroController
+Added Room: Name=MotorControl
+Added Room: Name=PowerManagement

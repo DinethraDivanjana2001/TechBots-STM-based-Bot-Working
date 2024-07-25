@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J20
+Change Component Designator: OldDesignator=J? NewDesignator=J21
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=P? NewDesignator=P5
+Added Component: Designator=R17(RESC1005X40X25LL05T10)
+Added Component: Designator=R18(FP-CRCW0402-e3-MFG)
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Change Net Name : Old Net Name=NetJ22_1 New Net Name=NetJ21_1
+Change Net Name : Old Net Name=NetJ22_2 New Net Name=NetJ21_2
+Change Net Name : Old Net Name=NetJ24_1 New Net Name=NetJ21_3
+Change Net Name : Old Net Name=NetJ24_2 New Net Name=NetJ21_4
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ20_2
+Change Net Name : Old Net Name=NetJ?_4 New Net Name=NetJ20_4
+Change Net Name : Old Net Name=NetJ?_5 New Net Name=NetJ20_5
+Change Net Name : Old Net Name=NetJ?_6 New Net Name=NetJ20_6
+Change Net Name : Old Net Name=NetJ?_8 New Net Name=NetJ20_8
+Change Net Name : Old Net Name=NetJ?_9 New Net Name=NetJ20_9
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetP5_1
+Change Net Name : Old Net Name=NetP?_2 New Net Name=NetP5_2
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "VCC" already exists

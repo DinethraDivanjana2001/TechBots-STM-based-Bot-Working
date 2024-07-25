@@ -1,0 +1,111 @@
+Add Component: Footprint Not Found CAPC5750X280N
+Add Component: Footprint Not Found CAPC1005X55N
+Add Component: Footprint Not Found CAPC1608X80N
+Add Component: Footprint Not Found TPS55288RPMR
+Added Component: Designator=J?(B4B-PH-SM4_1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B4B-PH-SM4-TB(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-ph-sm4-tb-lf-sn/jst-manufacturing?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/75c02eb1799788a6b14d7c521ee36df4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-PH-SM4-TB(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XAL6030182MEB
+Add Component: Footprint Not Found RESC2012X60N
+Add Component: Footprint Not Found RESC1005X40N
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin Ccomp-1
+Add Pin To Net: Unknown Pin: Pin Ccomp-2
+Add Pin To Net: Unknown Pin: Pin Cvcc-1
+Add Pin To Net: Unknown Pin: Pin Cvcc-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin IC1-9
+Add Pin To Net: Unknown Pin: Pin IC1-10
+Add Pin To Net: Unknown Pin: Pin IC1-11
+Add Pin To Net: Unknown Pin: Pin IC1-12
+Add Pin To Net: Unknown Pin: Pin IC1-13
+Add Pin To Net: Unknown Pin: Pin IC1-14
+Add Pin To Net: Unknown Pin: Pin IC1-15
+Add Pin To Net: Unknown Pin: Pin IC1-17
+Add Pin To Net: Unknown Pin: Pin IC1-18
+Add Pin To Net: Unknown Pin: Pin IC1-19
+Add Pin To Net: Unknown Pin: Pin IC1-20
+Add Pin To Net: Unknown Pin: Pin IC1-21
+Add Pin To Net: Unknown Pin: Pin IC1-22
+Add Pin To Net: Unknown Pin: Pin IC1-23
+Add Pin To Net: Unknown Pin: Pin IC1-24
+Add Pin To Net: Unknown Pin: Pin IC1-25
+Add Pin To Net: Unknown Pin: Pin IC1-26
+Add Pin To Net: Unknown Pin: Pin IC1-27
+Add Pin To Net: Unknown Pin: Pin IC1-28
+Add Pin To Net: Unknown Pin: Pin IC1-29
+Add Pin To Net: Unknown Pin: Pin IC1-30
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin Rcomp-1
+Add Pin To Net: Unknown Pin: Pin Rcomp-2
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Change Class Name : Old Net Name=IMU Unit New Net Name=MotorControl
+Added Class: Name=IMU Unit
+Add Class Member: Failed to add class member : Component C5 CGA9P2X7R1E226M250KA
+Added Member To Class: ClassName=MotorControl Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=MotorControl Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=MotorControl Member=Component C? 10uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 0.01uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 0.01uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 1uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 0.01uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 10uF
+Add Class Member: Failed to add class member : Component Ccomp GRM155R71C102KA01D
+Add Class Member: Failed to add class member : Component Cvcc C1608X6S1C475K080AC
+Added Member To Class: ClassName=MicroController Member=Component D? 150060VS75003
+Added Member To Class: ClassName=MicroController Member=Component D? 150060VS75003
+Added Member To Class: ClassName=MicroController Member=Component D? 150060VS75003
+Added Member To Class: ClassName=MicroController Member=Component D? 150060VS75003
+Added Member To Class: ClassName=MicroController Member=Component D? 150060VS75003
+Add Class Member: Failed to add class member : Component IC1 TPS55288RPMR
+Added Member To Class: ClassName=MotorControl Member=Component IC? DRV8262DDWR
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT__LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT__LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT__LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? 61300311121
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT__LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? 61300311121
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? 61300311121
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT__LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? 61300311121
+Added Member To Class: ClassName=MicroController Member=Component J? BM07B-GHS-TBT__LF__SN_
+Added Member To Class: ClassName=MicroController Member=Component J? BM06B-GHS-TBT_LF__SN_
+Added Member To Class: ClassName=PowerManagement Member=Component J? B4B-PH-SM4-TB_LF__SN_
+Add Class Member: Failed to add class member : Component L1 XAL6030-182MEB
+Added Member To Class: ClassName=MicroController Member=Component P? Header 5
+Add Class Member: Failed to add class member : Component R8 RT0805BRD0710K4L
+Added Member To Class: ClassName=MotorControl Member=Component R? ERJ-3EKF2611V
+Added Member To Class: ClassName=MotorControl Member=Component R? ERJ-3EKF2611V
+Added Member To Class: ClassName=MotorControl Member=Component R? ERJ3EKF1002V
+Added Member To Class: ClassName=MicroController Member=Component R? RC0402FR-07470RL
+Added Member To Class: ClassName=MicroController Member=Component R? RC0402FR-07470RL
+Added Member To Class: ClassName=MicroController Member=Component R? RC0402FR-07470RL
+Added Member To Class: ClassName=MicroController Member=Component R? RC0402FR-07470RL
+Added Member To Class: ClassName=MicroController Member=Component R? RC0402FR-07470RL
+Add Class Member: Failed to add class member : Component Rcomp CRCW0402294KFKED

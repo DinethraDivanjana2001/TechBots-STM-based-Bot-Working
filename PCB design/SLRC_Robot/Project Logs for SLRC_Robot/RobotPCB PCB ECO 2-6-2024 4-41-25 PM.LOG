@@ -1,0 +1,165 @@
+Add Component: Footprint Not Found CAPC5750X280N
+Added Component: Designator=C?(FP-CL05A106MP5NUNC-MFG)
+Added Component: Designator=C?(FP-CL05A106MP5NUNC-MFG)
+Added Component: Designator=C?(CAPC1608X105N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl10a226mp8nune/samsung-electro-mechanics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2407063.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A226MP8NUNE?qs=gRKWieUq2Hb5O0PTfRKzDQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPC1005X55N
+Add Component: Footprint Not Found CAPC1608X80N
+Add Component: Footprint Not Found TPS55288RPMR
+Added Component: Designator=IC?(SOP64P810X120-45N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DRV8262DDWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/drv8262ddwr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/drv8262ddwr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DRV8262DDWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-DRV8262DDWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8262DDWR?qs=1Kr7Jg1SGW8MeFim1i6uiA%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found BM07BGHSTBTLFSN
+Add Component: Footprint Not Found XAL6030182MEB
+Added Component: Designator=P?(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC2012X60N
+Add Component: Footprint Not Found RESC1005X40N
+Added Component: Designator=U?(FP-DSG0008A-MFG)
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Added Pin To Net: NetName=DITH/SYNC Pin=C?-1
+Added Pin To Net: NetName=DITH/SYNC Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin Ccomp-1
+Add Pin To Net: Unknown Pin: Pin Ccomp-2
+Add Pin To Net: Unknown Pin: Pin Cvcc-1
+Add Pin To Net: Unknown Pin: Pin Cvcc-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin IC1-9
+Add Pin To Net: Unknown Pin: Pin IC1-10
+Add Pin To Net: Unknown Pin: Pin IC1-11
+Add Pin To Net: Unknown Pin: Pin IC1-12
+Add Pin To Net: Unknown Pin: Pin IC1-13
+Add Pin To Net: Unknown Pin: Pin IC1-14
+Add Pin To Net: Unknown Pin: Pin IC1-15
+Add Pin To Net: Unknown Pin: Pin IC1-17
+Add Pin To Net: Unknown Pin: Pin IC1-18
+Add Pin To Net: Unknown Pin: Pin IC1-19
+Add Pin To Net: Unknown Pin: Pin IC1-20
+Add Pin To Net: Unknown Pin: Pin IC1-21
+Add Pin To Net: Unknown Pin: Pin IC1-22
+Add Pin To Net: Unknown Pin: Pin IC1-23
+Add Pin To Net: Unknown Pin: Pin IC1-24
+Add Pin To Net: Unknown Pin: Pin IC1-25
+Add Pin To Net: Unknown Pin: Pin IC1-26
+Add Pin To Net: Unknown Pin: Pin IC1-27
+Add Pin To Net: Unknown Pin: Pin IC1-28
+Add Pin To Net: Unknown Pin: Pin IC1-29
+Add Pin To Net: Unknown Pin: Pin IC1-30
+Added Pin To Net: NetName=NetC?_2 Pin=IC?-1
+Added Pin To Net: NetName=Motor_Power Pin=IC?-2
+Added Pin To Net: NetName=DITH/SYNC Pin=IC?-3
+Added Pin To Net: NetName=Motor1_Dir1 Pin=IC?-4
+Added Pin To Net: NetName=Motor1_Dir1 Pin=IC?-5
+Added Pin To Net: NetName=Motor1_Dir1 Pin=IC?-6
+Added Pin To Net: NetName=Motor2_Dir2 Pin=IC?-7
+Added Pin To Net: NetName=Motor2_Dir2 Pin=IC?-8
+Added Pin To Net: NetName=Motor2_Dir2 Pin=IC?-9
+Added Pin To Net: NetName=DITH/SYNC Pin=IC?-10
+Added Pin To Net: NetName=Motor_Power Pin=IC?-11
+Added Pin To Net: NetName=Motor_Power Pin=IC?-12
+Added Pin To Net: NetName=DITH/SYNC Pin=IC?-13
+Added Pin To Net: NetName=Motor2_Dir2 Pin=IC?-14
+Added Pin To Net: NetName=Motor2_Dir2 Pin=IC?-15
+Added Pin To Net: NetName=Motor2_Dir2 Pin=IC?-16
+Added Pin To Net: NetName=Motor2_Dir2 Pin=IC?-17
+Added Pin To Net: NetName=Motor2_Dir2 Pin=IC?-18
+Added Pin To Net: NetName=Motor2_Dir2 Pin=IC?-19
+Added Pin To Net: NetName=DITH/SYNC Pin=IC?-20
+Added Pin To Net: NetName=Motor_Power Pin=IC?-21
+Added Pin To Net: NetName=DITH/SYNC Pin=IC?-22
+Added Pin To Net: NetName=DITH/SYNC Pin=IC?-23
+Added Pin To Net: NetName=+5V Logic Pin=IC?-25
+Added Pin To Net: NetName=NetIC?_26 Pin=IC?-26
+Added Pin To Net: NetName=DITH/SYNC Pin=IC?-28
+Added Pin To Net: NetName=MCU Analog Input Pin=IC?-30
+Added Pin To Net: NetName=MCU Analog Input Pin=IC?-31
+Added Pin To Net: NetName=+3.3V Logic Pin=IC?-33
+Added Pin To Net: NetName=+3.3V Logic Pin=IC?-34
+Added Pin To Net: NetName=DITH/SYNC Pin=IC?-37
+Added Pin To Net: NetName=MCU_Motor2_PWM2 Pin=IC?-38
+Added Pin To Net: NetName=MCU_Motor2_PWM1 Pin=IC?-39
+Added Pin To Net: NetName=MCU_Motor1_PWM2 Pin=IC?-40
+Added Pin To Net: NetName=MCU_Motor1_PWM1 Pin=IC?-41
+Added Pin To Net: NetName=Enable Pin=IC?-42
+Added Pin To Net: NetName=NetC?_1 Pin=IC?-44
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Pin To Net: NetName=DITH/SYNC Pin=P?-3
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin Rcomp-1
+Add Pin To Net: Unknown Pin: Pin Rcomp-2
+Added Pin To Net: NetName=DITH/SYNC Pin=U?-4
+Added Pin To Net: NetName=DITH/SYNC Pin=U?-9
+Added Pin To Net: NetName=+3V3 Pin=P?-1
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=+5 Pin=U?-7
+Added Pin To Net: NetName=+5 Pin=U?-8
+Added Net: Name=+5
+Added Pin To Net: NetName=BAT+ Pin=C?-1
+Added Pin To Net: NetName=BAT+ Pin=C?-2
+Added Pin To Net: NetName=BAT+ Pin=U?-1
+Added Net: Name=BAT+
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=NetP?_2 Pin=P?-2
+Added Pin To Net: NetName=NetP?_2 Pin=U?-94
+Added Net: Name=NetP?_2
+Added Pin To Net: NetName=OUT_1 Pin=U?-2
+Added Net: Name=OUT_1
+Added Pin To Net: NetName=OUT_2 Pin=U?-3
+Added Net: Name=OUT_2
+Added Pin To Net: NetName=THROTTLE_1 Pin=U?-6
+Added Net: Name=THROTTLE_1
+Added Pin To Net: NetName=THROTTLE_2 Pin=U?-5
+Added Net: Name=THROTTLE_2
+Add Class Member: Failed to add class member : Component C5 CGA9P2X7R1E226M250KA
+Added Member To Class: ClassName=MotorControl Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=MotorControl Member=Component C? 0.01uF
+Added Member To Class: ClassName=MotorControl Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=MotorControl Member=Component C? 10uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 10uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 1uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 0.01uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 0.01uF
+Add Class Member: Failed to add class member : Component Ccomp GRM155R71C102KA01D
+Add Class Member: Failed to add class member : Component Cvcc C1608X6S1C475K080AC
+Add Class Member: Failed to add class member : Component IC1 TPS55288RPMR
+Added Member To Class: ClassName=MotorControl Member=Component IC? DRV8262DDWR
+Add Class Member: Failed to add class member : Component J? BM07B-GHS-TBT__LF__SN_
+Add Class Member: Failed to add class member : Component L1 XAL6030-182MEB
+Added Member To Class: ClassName=MicroController Member=Component P? Header 3
+Added Member To Class: ClassName=MicroController Member=Component P? Header 5
+Add Class Member: Failed to add class member : Component R8 RT0805BRD0710K4L
+Added Member To Class: ClassName=MotorControl Member=Component R? ERJ-3EKF2611V
+Added Member To Class: ClassName=MotorControl Member=Component R? ERJ3EKF1002V
+Add Class Member: Failed to add class member : Component Rcomp CRCW0402294KFKED
+Added Member To Class: ClassName=MicroController Member=Component U? STM32F405VGT6
+Added Member To Class: ClassName=MotorControl Member=Component U? DRV8837DSGR

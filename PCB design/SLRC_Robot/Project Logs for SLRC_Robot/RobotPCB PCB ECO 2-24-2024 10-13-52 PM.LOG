@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=DITH/SYNC Pin=P?-1
+Removed Pin From Net: NetName=+5 Pin=P?-2
+Removed Pin From Net: NetName=+3V3 Pin=P?-5
+Removed Pin From Net: NetName=+3V3 Pin=P?-9
+Removed Pin From Net: NetName=DITH/SYNC Pin=P?-11
+Removed Member From Class: ClassName=Designator Member=J22
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=J24
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=P?
+Remove Class Member: Failed to remove class member
+Added Component: Designator=J?(BM11BGHSTBTLFSNN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.jst-mfg.com/product/pdf/eng/eGH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM11B-GHS-TBT(LF)(SN)(N)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-1
+Added Pin To Net: NetName=+3V3 Pin=J?-3
+Added Pin To Net: NetName=+3V3 Pin=J?-7
+Added Pin To Net: NetName=+5 Pin=J?-10
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-11
+Add Net: Net with name "FB" already exists
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Net: Name=NetJ?_4
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-5
+Added Net: Name=NetJ?_5
+Added Pin To Net: NetName=NetJ?_6 Pin=J?-6
+Added Net: Name=NetJ?_6
+Added Pin To Net: NetName=NetJ?_8 Pin=J?-8
+Added Net: Name=NetJ?_8
+Added Pin To Net: NetName=NetJ?_9 Pin=J?-9
+Added Net: Name=NetJ?_9
+Add Net: Net with name "VCC" already exists
+Added Member To Class: ClassName=Designator Member=Component C13 CL05A106MP5NUNC
+Added Member To Class: ClassName=Designator Member=Component C14 CL05A106MP5NUNC
+Added Member To Class: ClassName=Designator Member=Component C15 CL10A226MP8NUNE
+Added Member To Class: ClassName=Designator Member=Component J19 XT30PB
+Added Member To Class: ClassName=Designator Member=Component J? BM11B-GHS-TBT_LF__SN__N_
+Added Member To Class: ClassName=Designator Member=Component J? TS-106-G-AA
+Added Member To Class: ClassName=Designator Member=Component R15 RC0402FR-0710KL
+Added Member To Class: ClassName=Designator Member=Component R16 RC0402FR-071K5L
+Added Member To Class: ClassName=Designator Member=Component U2 DRV8837DSGR
+Added Room: Name=3.3V LDO
+Added Room: Name=Buck Boost Converter
+Added Room: Name=Buck Converter
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=FR ARRAY
+Added Room: Name=MCU
+Added Room: Name=RR ARRAY

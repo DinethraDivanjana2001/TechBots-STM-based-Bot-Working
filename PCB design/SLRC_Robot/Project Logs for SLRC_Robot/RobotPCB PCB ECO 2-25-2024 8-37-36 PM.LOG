@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=LCD_SCK Pin=U1-30
+Added Pin To Net: NetName=LCD_MISO Pin=U1-90
+Added Pin To Net: NetName=LCD_MOSI Pin=U1-91
+Added Pin To Net: NetName=LCD_DS Pin=U1-92
+Added Pin To Net: NetName=LCD_RESET Pin=U1-93
+Added Pin To Net: NetName=LCD_CS Pin=U1-95
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "VCC" already exists

@@ -1,0 +1,32 @@
+Added Component: Designator=D1(WL-SMCW_0603_150060xx75003)
+Added Component: Designator=D2(WL-SMCW_0603_150060xx75003)
+Added Component: Designator=D3(WL-SMCW_0603_150060xx75003)
+Added Component: Designator=D4(WL-SMCW_0603_150060xx75003)
+Added Component: Designator=D5(WL-SMCW_0603_150060xx75003)
+Added Component: Designator=D6(WL-SMCW_0603_150060xx75003)
+Added Component: Designator=R9(RESC1005X40X25ML05T10)
+Added Component: Designator=R10(RESC1005X40X25ML05T10)
+Added Component: Designator=R11(RESC1005X40X25ML05T10)
+Added Component: Designator=R12(RESC1005X40X25ML05T10)
+Added Component: Designator=R13(RESC1005X40X25ML05T10)
+Added Component: Designator=R14(RESC1005X40X25ML05T10)
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Added Pin To Net: NetName=GND Pin=J21-1
+Added Pin To Net: NetName=+12 Pin=J21-2
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-2

@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=PowerManagement Member=J20
+Added Member To Class: ClassName=IrArray Member=Component IC2 74HC4067PW,118
+Added Room: Name=IMU Unit
+Added Room: Name=IrArray
+Added Room: Name=MicroController
+Added Room: Name=MotorControl
+Added Room: Name=PowerManagement

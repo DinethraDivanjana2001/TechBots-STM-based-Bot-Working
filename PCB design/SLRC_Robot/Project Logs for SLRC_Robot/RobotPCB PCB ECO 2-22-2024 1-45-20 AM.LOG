@@ -1,0 +1,7 @@
+Add Component: Footprint Not Found HDRV4W66P0X254_1X4_1016X249X1003P
+Added Member To Class: ClassName=MotorControl Member=Component J? 22-28-4042
+Added Room: Name=IMU Unit
+Added Room: Name=IrArray
+Added Room: Name=MicroController
+Added Room: Name=MotorControl
+Added Room: Name=PowerManagement

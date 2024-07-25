@@ -1,0 +1,9 @@
+Added Component: Designator=J?(SHDRRA2W100P0X508_1X2_1216X1200X850P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "OQ0254510000G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/oq0254510000g/amphenol?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-9/178265.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OQ0254510000G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "649-OQ02545100J0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Amphenol-Anytek/OQ0254510000G?qs=Mv7BduZupUgzygeuzsXFZg%3D%3D"; VariantName = "[No Variations]"

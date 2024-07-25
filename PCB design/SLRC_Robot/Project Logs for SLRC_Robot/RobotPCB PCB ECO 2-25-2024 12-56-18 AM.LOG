@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=TOF_INT_6 Pin=U1-45
+Removed Pin From Net: NetName=TOF_LPIN_6 Pin=U1-46
+Added Pin To Net: NetName=TOF_LPIN_6 Pin=U1-45
+Added Pin To Net: NetName=TOF_INT_6 Pin=U1-46
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "VCC" already exists

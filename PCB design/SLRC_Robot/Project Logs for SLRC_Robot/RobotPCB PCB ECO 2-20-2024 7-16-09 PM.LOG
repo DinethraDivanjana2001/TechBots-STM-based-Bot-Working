@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=DITH/SYNC Pin=C9-1
+Removed Pin From Net: NetName=DITH/SYNC Pin=C10-2
+Removed Pin From Net: NetName=DITH/SYNC Pin=C11-1
+Removed Pin From Net: NetName=DITH/SYNC Pin=C12-1
+Removed Pin From Net: NetName=DITH/SYNC Pin=IC2-3
+Removed Pin From Net: NetName=DITH/SYNC Pin=IC2-10
+Removed Pin From Net: NetName=DITH/SYNC Pin=IC2-13
+Removed Pin From Net: NetName=DITH/SYNC Pin=IC2-20
+Removed Pin From Net: NetName=DITH/SYNC Pin=IC2-22
+Removed Pin From Net: NetName=DITH/SYNC Pin=IC2-23
+Removed Pin From Net: NetName=DITH/SYNC Pin=IC2-28
+Removed Pin From Net: NetName=DITH/SYNC Pin=IC2-37
+Removed Pin From Net: NetName=DITH/SYNC Pin=R17-2
+Removed Pin From Net: NetName=DITH/SYNC Pin=R18-2
+Removed Member From Class: ClassName=MotorControl Member=C7
+Removed Member From Class: ClassName=MotorControl Member=C8
+Removed Member From Class: ClassName=MotorControl Member=C9
+Removed Member From Class: ClassName=MotorControl Member=C10
+Removed Member From Class: ClassName=MotorControl Member=C11
+Removed Member From Class: ClassName=MotorControl Member=C12
+Removed Member From Class: ClassName=MotorControl Member=IC2
+Removed Member From Class: ClassName=MotorControl Member=R17
+Removed Member From Class: ClassName=MotorControl Member=R18
+Removed Member From Class: ClassName=MotorControl Member=R19
+Added Room: Name=IMU Unit
+Added Room: Name=IrArray
+Added Room: Name=MicroController
+Added Room: Name=MotorControl
+Added Room: Name=PowerManagement

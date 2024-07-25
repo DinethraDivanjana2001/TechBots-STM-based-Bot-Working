@@ -1,0 +1,10 @@
+Added Component: Designator=J?(HDRV4W67P0X254_1X4_975X234X821P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "5-146281-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/5-146281-4/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F146281%7FG2%7Fpdf%7FEnglish%7FENG_CD_146281_G2.pdf%7F5-146281-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5-146281-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-5-146281-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5-146281-4?qs=bwpFY26eRVclyLuvT64BVw%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MotorControl Member=Component J? 5-146281-4

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetIC2_10 Pin=U1-81
+Removed Pin From Net: NetName=NetIC2_11 Pin=U1-82
+Removed Pin From Net: NetName=NetIC2_14 Pin=U1-83
+Removed Pin From Net: NetName=NetIC2_13 Pin=U1-84
+Added Pin To Net: NetName=NetIC2_14 Pin=U1-81
+Added Pin To Net: NetName=NetIC2_13 Pin=U1-82
+Added Pin To Net: NetName=NetIC2_10 Pin=U1-83
+Added Pin To Net: NetName=NetIC2_11 Pin=U1-84
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "VCC" already exists

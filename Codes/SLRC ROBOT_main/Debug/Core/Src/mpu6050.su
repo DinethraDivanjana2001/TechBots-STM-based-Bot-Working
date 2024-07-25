@@ -1,2 +1,0 @@
-../Core/Src/mpu6050.c:8:6:mpu6050_init	32	static
-../Core/Src/mpu6050.c:54:5:mpu6050_read	32	static

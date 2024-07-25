@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=BAT+ Pin=Q1-1
+Removed Pin From Net: NetName=BAT+ Pin=Q1-2
+Removed Pin From Net: NetName=SW1 Pin=Q1-4
+Removed Pin From Net: NetName=BAT+ Pin=Q1-5
+Removed Pin From Net: NetName=BAT+ Pin=Q1-6
+Removed Pin From Net: NetName=BAT+ Pin=Q1-7
+Removed Pin From Net: NetName=SW1 Pin=Q1-8
+Removed Pin From Net: NetName=SW1 Pin=Q2-1
+Removed Pin From Net: NetName=SW1 Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q2-4
+Removed Pin From Net: NetName=SW1 Pin=Q2-5
+Removed Pin From Net: NetName=SW1 Pin=Q2-6
+Removed Pin From Net: NetName=SW1 Pin=Q2-7
+Removed Pin From Net: NetName=GND Pin=Q2-8
+Change Footprint: Cannot match pads with new footprint in component :Q1 Footprint:FP-PG-TSDSON-8-MFG
+Change Footprint: Cannot match pads with new footprint in component :Q2 Footprint:FP-PG-TSDSON-8-MFG
+Change Component Comment : Designator=Q1 Old Comment=BUK9D23-40EX New Comment=IPZ40N04S5L4R8ATMA1
+Change Component Comment : Designator=Q2 Old Comment=BUK9D23-40EX New Comment=IPZ40N04S5L4R8ATMA1
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=9F540FA4-A095-4659-8A22-430EA67707AA New ItemGUID=777CB9CB-921A-426D-AF7D-130A31DB7249 Old RevisionGUID=64EBD633-EF31-4716-BC9B-45F0E21A7646 New RevisionGUID=D78704A2-0E3B-496A-BBD6-5F7300149DF6
+Change Managed Component Library Link : Designator=Q2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=9F540FA4-A095-4659-8A22-430EA67707AA New ItemGUID=777CB9CB-921A-426D-AF7D-130A31DB7249 Old RevisionGUID=64EBD633-EF31-4716-BC9B-45F0E21A7646 New RevisionGUID=D78704A2-0E3B-496A-BBD6-5F7300149DF6
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "FP-SOT1220-MFG"; UniqueID = "\KORCODTN\KIZNQNQO\XSXCPZWJ" ("\KORCODTN\KIZNQNQO\XSXCPZWJ")
+Change component parameters (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "40A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Halogen Free"; Value = "Halogen Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance"; Value = "1.56nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Dual Supply Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "175°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "48W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds On Max"; Value = "4.8mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "Automotive, AEC-Q101, OptiMOS™"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "FP-SOT1220-MFG"; UniqueID = "\KORCODTN\KIZNQNQO\XCUVKPNV" ("\KORCODTN\KIZNQNQO\XCUVKPNV")
+Change component parameters (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "40A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Halogen Free"; Value = "Halogen Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance"; Value = "1.56nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Dual Supply Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "175°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "48W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds On Max"; Value = "4.8mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "Automotive, AEC-Q101, OptiMOS™"; VariantName = "[No Variations]"
+Added Component: Designator=R28(FP-CRCW0402-e3-MFG)
+Added Component: Designator=R29(FP-CRCW0402-e3-MFG)
+Add Pin To Net: Unknown Pin: Pin Q1-1-2-3
+Add Pin To Net: Unknown Pin: Pin Q1-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q2-1-2-3
+Add Pin To Net: Unknown Pin: Pin Q2-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R28-2
+Add Pin To Net: Unknown Pin: Pin R29-1
+Add Pin To Net: Unknown Pin: Pin R29-2
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_4 Pin=R3-2
+Added Net: Name=NetQ1_4
+Added Pin To Net: NetName=NetQ2_4 Pin=Q2-4
+Added Pin To Net: NetName=NetQ2_4 Pin=R4-2
+Added Net: Name=NetQ2_4

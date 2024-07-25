@@ -1,0 +1,102 @@
+Add Component: Footprint Not Found CAPC5750X280N
+Add Component: Footprint Not Found CAPC1005X55N
+Add Component: Footprint Not Found CAPC1608X80N
+Add Component: Footprint Not Found TPS55288RPMR
+Add Component: Footprint Not Found SOP64P810X120-45N
+Add Component: Footprint Not Found XAL6030182MEB
+Add Component: Footprint Not Found RESC2012X60N
+Add Component: Footprint Not Found RESC1005X40N
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin Ccomp-1
+Add Pin To Net: Unknown Pin: Pin Ccomp-2
+Add Pin To Net: Unknown Pin: Pin Cvcc-1
+Add Pin To Net: Unknown Pin: Pin Cvcc-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin IC1-9
+Add Pin To Net: Unknown Pin: Pin IC1-10
+Add Pin To Net: Unknown Pin: Pin IC1-11
+Add Pin To Net: Unknown Pin: Pin IC1-12
+Add Pin To Net: Unknown Pin: Pin IC1-13
+Add Pin To Net: Unknown Pin: Pin IC1-14
+Add Pin To Net: Unknown Pin: Pin IC1-15
+Add Pin To Net: Unknown Pin: Pin IC1-17
+Add Pin To Net: Unknown Pin: Pin IC1-18
+Add Pin To Net: Unknown Pin: Pin IC1-19
+Add Pin To Net: Unknown Pin: Pin IC1-20
+Add Pin To Net: Unknown Pin: Pin IC1-21
+Add Pin To Net: Unknown Pin: Pin IC1-22
+Add Pin To Net: Unknown Pin: Pin IC1-23
+Add Pin To Net: Unknown Pin: Pin IC1-24
+Add Pin To Net: Unknown Pin: Pin IC1-25
+Add Pin To Net: Unknown Pin: Pin IC1-26
+Add Pin To Net: Unknown Pin: Pin IC1-27
+Add Pin To Net: Unknown Pin: Pin IC1-28
+Add Pin To Net: Unknown Pin: Pin IC1-29
+Add Pin To Net: Unknown Pin: Pin IC1-30
+Add Pin To Net: Unknown Pin: Pin IC?-1
+Add Pin To Net: Unknown Pin: Pin IC?-2
+Add Pin To Net: Unknown Pin: Pin IC?-3
+Add Pin To Net: Unknown Pin: Pin IC?-4
+Add Pin To Net: Unknown Pin: Pin IC?-5
+Add Pin To Net: Unknown Pin: Pin IC?-6
+Add Pin To Net: Unknown Pin: Pin IC?-7
+Add Pin To Net: Unknown Pin: Pin IC?-8
+Add Pin To Net: Unknown Pin: Pin IC?-9
+Add Pin To Net: Unknown Pin: Pin IC?-10
+Add Pin To Net: Unknown Pin: Pin IC?-11
+Add Pin To Net: Unknown Pin: Pin IC?-12
+Add Pin To Net: Unknown Pin: Pin IC?-13
+Add Pin To Net: Unknown Pin: Pin IC?-14
+Add Pin To Net: Unknown Pin: Pin IC?-15
+Add Pin To Net: Unknown Pin: Pin IC?-16
+Add Pin To Net: Unknown Pin: Pin IC?-17
+Add Pin To Net: Unknown Pin: Pin IC?-18
+Add Pin To Net: Unknown Pin: Pin IC?-19
+Add Pin To Net: Unknown Pin: Pin IC?-20
+Add Pin To Net: Unknown Pin: Pin IC?-21
+Add Pin To Net: Unknown Pin: Pin IC?-22
+Add Pin To Net: Unknown Pin: Pin IC?-23
+Add Pin To Net: Unknown Pin: Pin IC?-25
+Add Pin To Net: Unknown Pin: Pin IC?-26
+Add Pin To Net: Unknown Pin: Pin IC?-28
+Add Pin To Net: Unknown Pin: Pin IC?-30
+Add Pin To Net: Unknown Pin: Pin IC?-31
+Add Pin To Net: Unknown Pin: Pin IC?-33
+Add Pin To Net: Unknown Pin: Pin IC?-34
+Add Pin To Net: Unknown Pin: Pin IC?-37
+Add Pin To Net: Unknown Pin: Pin IC?-38
+Add Pin To Net: Unknown Pin: Pin IC?-39
+Add Pin To Net: Unknown Pin: Pin IC?-40
+Add Pin To Net: Unknown Pin: Pin IC?-41
+Add Pin To Net: Unknown Pin: Pin IC?-42
+Add Pin To Net: Unknown Pin: Pin IC?-44
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin Rcomp-1
+Add Pin To Net: Unknown Pin: Pin Rcomp-2
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Class Member: Failed to add class member : Component C5 CGA9P2X7R1E226M250KA
+Added Member To Class: ClassName=MotorControl Member=Component C? 1uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 0.01uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 0.01uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 0.01uF
+Added Member To Class: ClassName=MotorControl Member=Component C? 10uF
+Add Class Member: Failed to add class member : Component Ccomp GRM155R71C102KA01D
+Add Class Member: Failed to add class member : Component Cvcc C1608X6S1C475K080AC
+Add Class Member: Failed to add class member : Component IC1 TPS55288RPMR
+Add Class Member: Failed to add class member : Component IC? DRV8262DDWR
+Add Class Member: Failed to add class member : Component L1 XAL6030-182MEB
+Add Class Member: Failed to add class member : Component R8 RT0805BRD0710K4L
+Added Member To Class: ClassName=MotorControl Member=Component R? ERJ-3EKF2611V
+Added Member To Class: ClassName=MotorControl Member=Component R? ERJ3EKF1002V
+Add Class Member: Failed to add class member : Component Rcomp CRCW0402294KFKED
+Added Member To Class: ClassName=MicroController Member=Component U? STM32F405VGT6

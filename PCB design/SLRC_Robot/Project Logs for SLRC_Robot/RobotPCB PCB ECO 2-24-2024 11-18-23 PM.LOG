@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=PROXIMITY_IN Pin=U1-37
+Added Component: Designator=J?(HDRV3W64P0X254_1X3_762X254X869P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.69mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300311121?qs=PhR8RmCirEYxRWFJzNKsUw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=J?-1
+Added Pin To Net: NetName=PROXIMITY_IN Pin=J?-2
+Added Pin To Net: NetName=DITH/SYNC Pin=J?-3
+Added Pin To Net: NetName=NetIC3_10 Pin=U1-36
+Added Pin To Net: NetName=NetIC3_11 Pin=U1-37
+Added Pin To Net: NetName=NetIC3_14 Pin=U1-38
+Added Pin To Net: NetName=NetIC3_13 Pin=U1-39
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "VCC" already exists

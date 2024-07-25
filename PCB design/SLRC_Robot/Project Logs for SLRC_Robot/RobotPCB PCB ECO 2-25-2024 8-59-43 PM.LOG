@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CLR_LED_1 Pin=U1-2
+Removed Pin From Net: NetName=TOF_LPIN_1 Pin=U1-69
+Removed Pin From Net: NetName=TOF_INT_1 Pin=U1-70
+Removed Pin From Net: NetName=CLR_INT_1 Pin=U1-97
+Added Pin To Net: NetName=PROXIMITY_IN Pin=U1-69
+Added Pin To Net: NetName=CLR_INT_1 Pin=U1-70
+Added Pin To Net: NetName=CLR_LED_1 Pin=U1-71
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "VCC" already exists
