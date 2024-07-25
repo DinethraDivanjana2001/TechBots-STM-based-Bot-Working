@@ -14,3 +14,15 @@ Following are the tasks capable by the robot:
 * Shooting a ball into a target
 
 The robot is entirely autonomous.
+
+### Codes
+
+The code for the microcontroller is found under STM32 firmware and firmware. There are 2 versions: one done with an STM32 microcontroller and the other with an ESP32. This codes is responsible for getting readings from the sensors and moving the robot by controlling the motors, The Raspberry Pi firmware is found under Raspberry Pi firmware directory. This includes codes regarding the colour detection and aligining with the target.
+
+### PCB design
+
+The schematics and PCB design of the robot are found under the PCB design directory. Schematics are included for subcircuits. A 4-layer PCB was designed for the robot.
+
+### 3D Models
+
+The 3D models and 3D renders of the robot are found under the 3D designs directory. The assembly is also included.
