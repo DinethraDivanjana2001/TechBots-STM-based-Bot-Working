@@ -39,12 +39,12 @@ Add your images to the appropriate sections below:
 
 1. Robot Design:
    
-   ![Robot Design](robot.jpg)
+   ![Robot Design](Images/1720920834992.jpg)
 
 2. PCB Design:
 
-   ![PCB Design](pcb.jpg)
+   ![PCB Design](Images/1720920862427.jpg)
 
 3. Shooter Mechanism:
 
-   ![Shooter Mechanism](shooter.jpg)
+   ![Shooter Mechanism](Images/shooter.jpg)
