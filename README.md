@@ -31,7 +31,7 @@ The shooter mechanism is responsible for launching balls into the target. The de
 
 ### 3D Models
 
-The **3D Models** and renders of the robot are located in the **3D Designs** directory. The full assembly of the robot is also included.
+The **3D Models** and renders of the robot are  located in the **3D Designs** directory. The full assembly of the robot is also included.
 
 ### Images
 
